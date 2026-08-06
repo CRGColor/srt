@@ -1,0 +1,50 @@
+{
+  "_comment": [
+    "Terms the translator must handle a specific way.",
+    "keep_as_is: leave untouched (names, fandom loanwords, show titles).",
+    "mappings: force a specific Spanish rendering.",
+    "notes: free-text guidance appended to the system prompt."
+  ],
+  "keep_as_is": [
+    "unnie",
+    "oppa",
+    "hyung",
+    "noona",
+    "sunbae",
+    "hoobae",
+    "maknae",
+    "aegyo",
+    "bias",
+    "comeback",
+    "fandom",
+    "fanchant",
+    "lightstick",
+    "visual",
+    "center",
+    "leader",
+    "trainee",
+    "idol",
+    "stan",
+    "workdol",
+    "Rora",
+    "babymonster",
+    "K-pop",
+    "kpop",
+    "Chiquita",
+    "Asa",
+    "Ahyeon",
+    "Jiwon",
+    "Tsuki",
+    "Ruka",
+    "Rami",
+    "Pharita",
+    "MONSTIEZ",
+    "YouTube"
+  ],
+  "mappings": {
+    "It's okay": "Está bien",
+    "No way!": "¡No manches!",
+    "Let's go!": "¡Vamos!"
+  },
+  "notes": "This is a K-pop variety show. Keep the energy high and the register casual. Members roast each other constantly — preserve the teasing."
+}
