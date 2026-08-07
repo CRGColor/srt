@@ -1,0 +1,120 @@
+[361] (Agotada)
+[362] Esto está pesado
+[363] (Esforzándose)
+[364] Rora, te ves súper cansada
+[365] ¿Rora, estás bien?
+[366] (Se nota que la energía es fingida...)\n¿De qué hablas?
+[367] (Tomando un descanso)\nParece que atender\nel mostrador te dejó exhausta
+[368] (Agotada...)\nEsa es la ceja que pones\ncuando las cosas están de verdad pesadas
+[369] (Chequeo rápido)\nEspera,
+[370] ¿cuánto nos falta hoy?
+[371] Nos quedan 25 minutos para salir
+[372] ¡Sí!
+[373] No, de plano lo delataste
+[374] (Todas le echan ganas...)
+[375] ¿Cómo estuvo?\n¿Tu turno de hoy en la heladería?
+[376] Estuvo pesado
+[377] Totalmente brutal
+[378] Uf, estoy muerta
+[379] (Ojeada)
+[380] ¿Cuánto falta para salir?
+[381] Como cinco minutos
+[382] (Emocionada)\n¡Oh sí, oh siiií!
+[383] (Feliz)
+[384] (De vuelta al trabajo)\nTe voy a hacer un tema con Chiquita
+[385] (Alegre porque ya casi es hora de salir)\nGuitarra girando al ritmo de Chiquita
+[386] Guitarra girando al ritmo de Chiquita
+[387] (Sin HP)
+[388] (Entra un cliente)
+[389] ¡Cliente!
+[390] Ah, el mostrador
+[391] Hola
+[392] Cincuenta vasos individuales,
+[393] por favor
+[394] ¿Cincuenta vasos individuales?
+[395] ¿Cincuenta vasos?
+[396] Espera, este último cliente es\ndemasiado intenso
+[397] ¿Cincuenta?
+[398] (Mirada asesina)\nSunbaes, tenemos una orden grupal,\n50 vasos individuales
+[399] (Modo zen)\nVoy a servirlo\ncon todo el amor que tengo
+[400] ¿Qué tal un Shooting Star?
+[401] Ah, Shooting Star, qué bien
+[402] Espera, ¿qué?
+[403] Siento que de verdad ya mejoré
+[404] (Forma perfecta)\nCreo que esa me quedó\nla más perfecta
+[405] (No puede perder)\n¿No creen que ya se me da bien?
+[406] (Ya la contratan de una vez)\nEsta forma está una locura
+[407] ¿Para quién es?
+[408] Vamos a ver a unos amigos del antro
+[409] ¿Ustedes dos son pareja, por casualidad?
+[410] Sí
+[411] (En serio...)
+[412] (Mejor concentrémonos en el trabajo...)\nApple Mint
+[413] Este cuesta un poco más de trabajo
+[414] (El final)\nAhh, por fin terminé
+[415] ¡Oooooooooh!
+[416] ¿Quién se le declaró primero?
+[417] (Yo fui primero)\nYo fui quien se declaró
+[418] ¡Woooow!
+[419] Le echaste ganas
+[420] ¿Cómo le hiciste?
+[421] Mi novia había quedado con una amiga,
+[422] así que fui a recogerla y me le declaré\nde noche frente a su casa
+[423] O sea que básicamente le dijiste que se subiera al carro
+[424] Ah, cierto
+[425] Eso lo hice en Gangnam
+[426] "Oppa se compró un carro nuevo"
+[427] (Oppa está bien borracho...)\n"Oppa se compró un carro nuevo,\nvoy a recogerte"
+[428] (4:00 PM\nHora de salida)\nYa terminamos
+[429] Ya nos vamos a casa
+[430] Déjenme bajar
+[431] (Pago del trabajo de medio tiempo)
+[432] Todas lo hicieron muy bien.\nEn serio, todas trabajaron durísimo
+[433] Wow, ¿cuánto es?
+[434] ¿300 wones?
+[435] ¿41,300 wones?
+[436] (Pago de Baskin-Robbins = Total 41,300 wones)\n¿Cuántas horas trabajamos hoy?
+[437] 4 horas. El pago por hora es de 10,320 wones
+[438] (Mirada muerta)\nNo es mucho
+[439] Es razonable
+[440] (Tan razonable...)
+[441] (P. ¿Qué fue lo más difícil?)\n¿Qué fue lo más difícil para ti?
+[442] En el mostrador, todo el rato diciendo,
+[443] "¡Bienvenido!"
+[444] y manteniendo esa energía
+[445] Ah, como estar alegre y sonriente
+[446] Sonriente
+[447] (Casi se me acalambra la cara)\nSonreí tantísimo
+[448] Para mí, lo más difícil fue
+[449] sacar el mint chocolate chip
+[450] No se movía para nada
+[451] - Se pega a la cuchara y no sale\n- Al parecer eso es normal
+[452] Ese fue el más difícil
+[453] (Desconsolada)\nNo coman
+[454] (Mejor pidan chocolate)\nNo pidan mint chocolate
+[455] No tenía idea de que era tan difícil
+[456] Las respeto muchísimo
+[457] (Saludo a los trabajadores de medio tiempo)\n- Mucho respeto\n- En serio, todo el respeto
+[458] Trabajar juntas hoy
+[459] fue divertido, pero
+[460] (Doliéndose por el trabajador)\nescuchar su historia fue muy triste
+[461] Trabajan tan duro,
+[462] y esos clientes groseros, en serio...
+[463] Eso no está bien
+[464] Los clientes groseros deberían\nreflexionar
+[465] (Todos son los hijos preciados de alguien...)\nPor favor trátenlos con amabilidad
+[466] (La confesión sorpresa de BABYMONSTER)
+[467] (6 PM, 4 de mayo - Comeback de Baemon "CHOOM")\nHacemos nuestro comeback en mayo\ncon la canción título "CHOOM"
+[468] "¿CHOOM?"
+[469] Tenemos gira mundial en junio
+[470] Es nuestra segunda gira mundial
+[471] (Fin de la promo)\nVámonos así nomás, chicas
+[472] (Déjenme salir de trabajar)
+[473] (El consejo real de una sunbae)
+[474] ¿Hay alguien en BABYMONSTER
+[475] que parezca que\nse le daría bien un trabajo de medio tiempo?
+[476] - Primero está una amiga que se llama Rora\n- ¿En serio?
+[477] Es súper lista y capaz
+[478] Pero entre las más jóvenes,
+[479] hay una que se llama Chiquita
+[480] No entiende mucho de jerarquías,

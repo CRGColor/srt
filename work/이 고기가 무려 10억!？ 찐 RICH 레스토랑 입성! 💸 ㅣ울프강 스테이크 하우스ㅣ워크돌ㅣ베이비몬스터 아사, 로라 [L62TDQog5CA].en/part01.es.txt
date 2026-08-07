@@ -1,0 +1,120 @@
+[1] ¿Tú cortaste esto hoy?
+[2] Sí, así es
+[3] ¿A dónde se fue toda esta carne?
+[4] A este paso,
+[5] no creo poder pagarte hoy
+[6] Había huesos, huesos por todos lados
+[7] ¿No eres tú la sunbae aquí?
+[8] Así es
+[9] Si enseñas así,\n¿quién se va a hacer responsable?
+[10] Ay no...
+[11] ¿No es trabajo de la sunbae\nmanejar bien a las hoobae?
+[12] (Asa/ Rora/ BABYMONSTER)\nAsa
+[13] ¿Crees que puedes grabar Workdol\nestando de gira mundial?
+[14] ¿Lavando platos?
+[15] ¿Limpiando la parrilla?
+[16] Voy a hacer lo que sea necesario
+[17] (Haciendo trampa)
+[18] No miren tan de cerca
+[19] (Solo esperen)
+[20] ¿No entiendes\naunque te escriba las líneas?
+[21] (Problema de memoria)
+[22] Está bien
+[23] (Segunda toma)\nAsa
+[24] ¿Crees que puedes grabar Workdol\nestando de gira mundial?
+[25] ¿Lavando platos?
+[26] ¿Limpiando la parrilla?
+[27] Voy a hacer lo que sea necesario
+[28] Que nadie más decida mi valor
+[29] Mi vida apenas está empezando,
+[30] y voy a
+[31] vivir comiendo solo el mejor steak
+[32] Entonces, ¿dónde trabajo hoy?
+[33] En una steakhouse
+[34] ¿Creen que pueda robarme un bocado?
+[35] Puedo darle una mordida, ¿no?
+[36] (El lugar de moda de los ricos: Wolfgang)
+[37] (Trabajadora de medio tiempo en steakhouse)
+[38] He escuchado
+[39] que este lugar es carísimo
+[40] (Un lugar donde comen los ricos)\nDicen que mucha gente adinerada\nviene a esta steakhouse
+[41] Entonces hoy, Asa unnie me invita el steak
+[42] Mmm, déjame
+[43] pensarlo
+[44] un segundo
+[45] Mi cuenta bancaria está
+[46] prácticamente vacía ahorita
+[47] (En realidad vino a ganar dinero)
+[48] (3:00 PM - Rumbo al trabajo)\nComo tengo un poco más de experiencia
+[49] (El farol de la veterana de Workdol)\n- Sígueme\n- Porque tienes experiencia
+[50] Pero hoy, como va a venir\ngente muy importante,
+[51] mantengamos la dignidad
+[52] Claro
+[53] ¿Cómo están todos?
+[54] ¿Cómo están todos?
+[55] (Una dignidad que hace dudar de su pueblo natal)\n- Con este tipo de ambiente\n- Qué raro
+[56] Hola
+[57] Hola
+[58] ¡Bienvenidos a nuestra Wolfgang Steakhouse!
+[59] (Han Soomin)\n(3 años de experiencia)\nSomos la mejor steakhouse de Corea del Sur
+[60] He escuchado que muchos VIPs
+[61] y empresarios vienen seguido
+[62] También organizan fiestas y eventos
+[63] (P. ¿Quién fue la más bonita?)\nEntonces, ¿hay algún artista\nque te haya dejado más impresionado?
+[64] Para mí, es BLACKPINK
+[65] Uh
+[66] Ah, wowww
+[67] Increíble
+[68] (Sintiendo el hype de YG)
+[69] (Alto)\nAntes de empezar,
+[70] déjenme decir algunas cosas
+[71] La cocina puede ser
+[72] un lugar muy peligroso
+[73] Los cuchillos pueden salir volando
+[74] ¡Whoa!
+[75] Y las flamas pueden aparecer de repente\npor todos lados
+[76] ¡Whoa!
+[77] Así que
+[78] tienen que ponerse en orden
+[79] (Sí, señor)\ny
+[80] empezar a trabajar con disciplina
+[81] (Nerviosamente alerta)\n- Sí, entendido\n- ¿Entendido?
+[82] (3:30 PM - Preparando la carne)\nAhora me van a seguir y trabajar la carne
+[83] Si ustedes dos no lo hacen bien,
+[84] las van a regañar
+[85] (¿Es el inicio de una disciplina estricta...?)\n¿Nos van a regañar...?
+[86] ¿Cómo debo llamarlo?
+[87] (Estricto)\nPor favor llámenme Chef
+[88] Soomin
+[89] senpai
+[90] Soomin
+[91] senpai
+[92] Para ustedes, Chef Soomin
+[93] Eso es súper, súper tierno
+[94] (Desarmado)\nEn Japón, le dirían senpai
+[95] Ahora, vamos al cuarto de maduración
+[96] (Serio)\nEs como un secreto de la casa
+[97] Ay wow
+[98] Un secreto de la casa
+[99] (Una advertencia bastante débil)\n- No le pueden decir a nadie\n- En serio, no le digan a nadie
+[100] (Entrando)\nEstos son cortes de carne\nrealmente carísimos
+[101] Increíble
+[102] Es una cantidad enorme
+[103] Seleccionamos cuidadosamente solo el 2% de la carne americana,
+[104] (Solo la mejor carne, seleccionada a mano)\ny luego la maduramos nosotros mismos\ncon nuestra propia experiencia
+[105] (P. ¿Cuánto vale todo esto?)\nEntonces, ¿como cuánto valen estas carnes?
+[106] Si lo juntas todo,
+[107] ¿casi mil millones de wones?
+[108] ¡Whoa!
+[109] Mil millones de wones
+[110] (Hora de agarrar y correr)\nAgarremos uno
+[111] ¿Cuántos kilos pesa cada uno?
+[112] Cada uno pesa 15 kilos
+[113] Whoa
+[114] En promedio,
+[115] - pesan como de 13 a 15 kilos cada uno\n- Wow, sí que pesa
+[116] (Conspirando abiertamente)\nPodríamos cargarlo juntas\ncuando nos vayamos
+[117] (Hora de mover la carne)\nAhora tenemos que sacar esta carne
+[118] (Tratando de hacerse la dura)\nWhoa, Asa, no hay manera de que puedas levantar esto
+[119] (Ofendida)\nHe estado haciendo ejercicio últimamente
+[120] Asa hace ejercicio

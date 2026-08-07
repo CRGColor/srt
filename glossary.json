@@ -36,15 +36,26 @@
     "Jiwon",
     "Tsuki",
     "Ruka",
+    "RURU",
     "Rami",
     "Pharita",
     "MONSTIEZ",
-    "YouTube"
+    "YouTube",
+    "Baemon",
+    "MC",
+    "CHOOM",
+    "PICK ME",
+    "K-Pop ON!",
+    "Baskin-Robbins",
+    "Rainbow Sherbet",
+    "Shooting Star",
+    "Apple Mint",
+    "Mom Is an Alien"
   ],
   "mappings": {
     "It's okay": "Está bien",
     "No way!": "¡No manches!",
     "Let's go!": "¡Vamos!"
   },
-  "notes": "This is a K-pop variety show. Keep the energy high and the register casual. Members roast each other constantly — preserve the teasing."
+  "notes": "This is a K-pop variety show. Keep the energy high and the register casual. Members roast each other constantly — preserve the teasing. Baskin-Robbins flavor names (Rainbow Sherbet, Shooting Star, Apple Mint, Mom Is an Alien, etc.) are product names — keep them in English like the store name itself, never translate. 'Baemon' is the fan nickname for BABYMONSTER. 'CHOOM' is a comeback/title-track name — keep untranslated like a song title. 'PICK ME' is the Produce 101 catchphrase reference — keep in English. 'RURU' is RUKA's nickname — recurs across multiple videos, keep untranslated, don't mistake it for a typo. 'K-Pop ON!' is Spotify's recurring video-podcast franchise name (appears at the end of Spotify-produced episodes) — keep untranslated like a show title. Song lyric captions quoted on screen (bracketed or not) are left in English per standing rule — only the surrounding commentary/captions get translated. Ad hoc portmanteau nicknames a single episode invents on the spot for a member pairing (e.g. combining two members' names as a joke) are one-off wordplay, not standing terms — translate/localize them fresh each time rather than treating them as fixed glossary entries, since these episodes are independent one-offs, not a connected season."
 }

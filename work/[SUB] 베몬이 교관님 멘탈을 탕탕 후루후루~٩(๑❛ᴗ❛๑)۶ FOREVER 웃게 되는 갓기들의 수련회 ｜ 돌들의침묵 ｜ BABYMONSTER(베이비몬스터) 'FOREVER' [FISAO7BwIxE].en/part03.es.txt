@@ -1,0 +1,120 @@
+[242] [Reconozco su esfuerzo]\nestuvo bien para ser la primera misión.
+[243] [Ángulo perfecto]\nGracias. ¡Saludo!
+[244] Ya que lograron la primera misión,
+[245] les voy a dar un objeto para dormir bien.
+[246] Al frente, CHIQUITA y RAMI.
+[247] ¡Sí, señor!
+[248] - Es un antifaz.\n- Qué lindo.
+[249] Gracias.
+[250] Póntelo ahora.
+[251] Dame una pose tierna.
+[252] Soy tierna aunque no haga nada.
+[253] [Jaja]
+[255] [Pose de hada dormilona]\nBien. ¡Así!
+[256] [Dando toquecitos]
+[257] ¡Ahora a la cama!
+[258] Entonces ya me voy.
+[259] [Jaja]
+[260] [¡Shh!]
+[261] Buenas noches.
+[262] [En realidad no, ¡levántense!]
+[263] - ¿Practicamos otra vez?\n- Va.
+[264] [Reproducir]
+[265] CHIQUITA, tú vas al centro.
+[266] [FOREVER]
+[267] [LIKE I'MMA LIVE]
+[268] [BABYMONSTER]
+[269] [I'm that nice]
+[270] [What do you think makes us different?]
+[271] ¡RURU! ¡Rómpela!
+[272] [Hasta la traviesa RUKA borda su parte a la perfección]
+[273] [¡Silbido---!]
+[274] [Caos total]
+[275] BOUT IT BOUT IT\nI'm feeling the rhythm all over.
+[276] [El medidor de fastidio está subiendo]\nEverybody get down
+[277] [Nada puede impedir que baile aquí]
+[278] Mi cabeza está por explotar.
+[279] [Jaja]
+[280] Ya no aguanto más.
+[281] Aquí viene su segunda misión grupal.
+[282] Su misión grupal se llama 'Cachete con cachete',
+[283] Las van a emparejar con los ojos cerrados.
+[284] En 20 segundos, tienen que adivinar qué es\nlo que tienen entre los cachetes.
+[285] ¿Cuál es el primer objeto?
+[286] - ¿Qué es esto?\n- Acércate.
+[287] [La primera respuesta: una esponja de baño]\nBien.
+[288] ¿Una liga para el pelo?
+[289] ¿Un calcetín?
+[290] ¿Una pantufla?
+[291] [¿Una pantufla? ¿En serio?]
+[292] Ya usaron la mitad del tiempo.
+[293] Ya casi se acaba el tiempo.
+[294] Blandito.
+[295] - ¿Un humidificador?\n- ¿Una muñeca?
+[296] [Quedan cinco segundos]
+[298] [Se acabó]
+[299] Sáquenlo.
+[300] ¿Qué creen que es?
+[301] Díganlo ahora.
+[302] [¿Dirán la respuesta correcta?]
+[303] ¿Los calcetines para dormir de RORA?
+[304] [Se negó a prestarlos]\nNo presto mis calcetines para dormir.
+[305] [Jaja]
+[306] ¿Por eso olía?
+[307] ¡No olía!
+[308] No era un calcetín.
+[309] - ¿Qué es?\n- Sí puedes adivinarlo.
+[310] ¿Una esponja para tallar?
+[311] Sigues diciendo esponja.
+[312] La respuesta es...
+[313] Una esponja de baño.
+[314] [¿No es una esponja para tallar personas?]\nSí es una esponja.
+[315] No hay un calcetín así.
+[316] [Una respuesta creativa pero incorrecta]
+[317] El siguiente equipo también debe cerrar los ojos.
+[318] [El segundo objeto es un ábaco]
+[319] ¡Empiecen ahora!
+[320] [Difícil]\nTienes que apoyar tu peso en eso.
+[321] Se está ajustando a la altura de RUKA.
+[322] ¿Qué es?
+[323] [Frotando los cachetes con cuidado]\nSus alturas no son compatibles.
+[324] ¿Qué creen que es?
+[325] [Ya pasaron diez segundos]\nYa usaron la mitad del tiempo.
+[326] Ya pasaron diez segundos.
+[327] ¿Es algún tipo de instrumento musical?
+[328] No andas tan lejos.
+[329] ¿No tan lejos?
+[330] [¡Cuenta regresiva de cinco segundos!]\nÚltimos cinco segundos.
+[332] [Esto está difícil]\n2, 1
+[333] [¿Lo descubrirán?]\n¿Qué creen que es?
+[334] [Mirando alrededor]\n¿Qué es?
+[335] [Se escucha un susurro de algún lado]
+[336] MATEMÁTICAS
+[337] [Rodando]
+[338] ¿"Soroban"?
+[339] Lo dijo en japonés.
+[340] Lo dijo en japonés.
+[341] En japonés se llama "soroban".
+[342] No hablo japonés. Ayúdenme.
+[343] En coreano le decimos "jupan".
+[344] Correcto.
+[345] [¡Yay! ¡Correcto!]
+[346] ¿Cómo lo supiste?
+[347] ¿Sabes qué es esto?
+[348] - No.\n- Yo sí.
+[349] ¿Sabes qué es?
+[350] [Nació en 2002 y sabe qué es]\nSe usa para resolver problemas de matemáticas.
+[351] [El tercer objeto]\n¡Empecemos ahora!
+[352] [¡Empieza el juego!]
+[353] [Ya lo odian]
+[354] Todavía no llega ahí.
+[355] Es suave, ¿verdad?
+[356] ¿A dónde vas?
+[357] [Jaja]
+[358] [Regresa]\n¿A dónde vas?
+[359] Piénsalo bien.
+[360] Ya pasaron diez segundos.
+[361] Tienes diez segundos.
+[362] ¿No es la esponja?
+[363] [Concentrada]\n¿No es una esponja?
+[365] - ¡No sé!\n- 3, 2, 1. ¡Se acabó!

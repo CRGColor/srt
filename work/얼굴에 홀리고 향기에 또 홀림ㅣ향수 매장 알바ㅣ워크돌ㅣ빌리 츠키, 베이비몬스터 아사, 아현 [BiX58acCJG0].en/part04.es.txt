@@ -1,0 +1,120 @@
+[363] ¿Cómo está?
+[364] ¿Le gusta el aroma?
+[365] Sí, tiene un toque sutil a banana
+[366] (Clienta totalmente satisfecha)\nEs tan natural
+[367] (El gerente entra de repente)\nCuéntale los beneficios
+[368] Ya le conté el truco secreto
+[369] Si compra esto,
+[370] la verdad,
+[371] el
+[372] gerente de aquí
+[373] se lo va a pagar
+[374] ¿Él me lo va a pagar?
+[375] (Un 90% de descuento, una locura)\nSolo paga el 10%
+[376] (Qué ganga)\ngracias a un descuento del 90%
+[377] Si quiere, se puede llevar a este gerente
+[378] (Gerente incluido de regalo)\ncomo promoción de dos por uno
+[379] Tengo novio
+[380] ¿Ah, en serio?
+[381] ¿Ni siquiera como repuesto?
+[382] (...¿Tú crees?)\nQué difícil
+[383] Entonces, ¿va a comprar?
+[384] Ah
+[385] Sí
+[386] (Primera venta exitosa)\nGracias
+[387] (Atendiendo a más clientes)
+[388] ¿Tienen algún aroma dulce?
+[389] Sí, tenemos
+[390] Sí, tenemos
+[391] - Es en serio, no es broma\n- Tenga, huela esto
+[392] (Oliendo)\nWow,
+[393] acaban de florecer flores detrás de usted
+[394] Rosas
+[395] (Compra rápida después de los cumplidos)
+[396] (Siguiente: Chica de Oficina)\nSi trabaja en una oficina,\nhay un perfume que le queda perfecto
+[397] Ginger Holiday
+[398] Wow, miren todo ese tesoro atrás
+[399] - Wow\n- ¿Qué le parece?
+[400] Me encanta
+[401] (Otra compra rápida)\nGracias, que tenga buen día
+[402] La verdad somos
+[403] estudiantes de preparatoria
+[404] (Un gusto, amiga)
+[405] (Están en época de exámenes)\n¿Hay algo\nque despeje la mente,
+[406] que te haga sentir renovada?
+[407] (Recomendación: Noir Banana)\nEste
+[408] Ay, genial
+[409] En serio, lo quiero comprar
+[410] Son 79,000 wones
+[411] Perdón
+[412] (Se les va rápido)\nGracias
+[413] Ahyeon está muerta
+[414] (Resucitada)\nEnergía de locos
+[415] Nel
+[416] No,
+[417] estoy perfecta ahorita
+[418] (Último cliente del día)
+[419] Hola
+[420] (Leyendo el ambiente)
+[421] Bienvenidos
+[422] - Hola\n- ¿Cómo se
+[423] conocen ustedes dos?
+[424] (Pausa incómoda)\nSomos
+[425] pareja
+[426] (Reacción exagerada)
+[427] Mi corazón se puso a latir de repente
+[428] Bum-bum
+[429] (Nomás usando la reacción\nde excusa para hacer relajo)
+[430] (P. ¿Qué tipo de perfume quieren?)\n- ¿Qué perfume?\n- ¿Amor?
+[431] ¿Algo que pueda hacer\nque nuestro amor se fortalezca un poco?
+[432] (¡Ya les avisamos!)\n- Un momento para pensar\n- Lo voy a pensar
+[433] ¿Discuten normalmente,
+[434] de vez en cuando?
+[435] Un poco
+[436] ¿Un poco?
+[437] Creo que necesitan un aroma dulce
+[438] Un toque de dulzura
+[439] ¿Este?
+[440] ¿Este?
+[441] Summer
+[442] Break
+[443] (Agregando algo de dulzura)
+[444] (Listo)\nAdelante
+[445] (El amor se está restaurando)
+[446] - ¿Está bien?\n- Sí
+[447] Creo que este es el mejor
+[448] ¿En serio?
+[449] ¿Considerarían comprarlo?
+[450] Bueno, no lo compraría nomás así,
+[451] pero Ahyeon, tú cantas tan bien
+[452] (Extorsionando una canción de Ahyeon)\n¿Una canción de Ahyeon?
+[453] Algo que pueda hacer\nque el amor crezca aún más
+[454] (Mirando alrededor)\nSi es un amor peligroso,
+[455] hay que cantar Dangerously
+[456] (Charlie Puth - Dangerously\nSin contenerse)
+[457] Esperamos que les dure mucho
+[458] (¡Que sigan enredados, en serio!)\nEsperamos que su amor peligroso\ndure mucho tiempo
+[459] (Fin del turno)\nSe acabó
+[460] (Hora de irse a casa)\nYa terminamos
+[461] Dinero, dinero
+[462] Dinero, por favor
+[463] (Esa emoción de que te paguen)\nGracias
+[464] Haz lo que quieras con esto
+[465] Ahyeon, lo que tú quieras
+[466] (Abre el sobre)
+[467] El pago por hora es de 12,000 wones,
+[468] trabajaste 6 horas,
+[469] entonces son 72,000 wones,
+[470] pero te dieron un bono de 10,000 wones
+[471] (Pago de la perfumería:\n12,000 wones por hora x 6 horas\n+ bono de 10,000 wones = 82,000 wones en total)
+[472] ¿Entonces qué vas a hacer con eso?
+[473] Lo voy a meter a mis ahorros
+[474] Poquito a poquito se junta, ¿sabes?
+[475] (Chica ambiciosa)\nMás adelante voy a comprar algo más grande
+[476] ¿Y tú, Ahyeon?
+[477] ¿Yo? Primero,
+[478] lo
+[479] ahorraría también
+[480] (Ahorrándolo en la pancita)\ny tal vez usarlo en comida o algo
+[481] Calificación de recomendación del trabajo
+[482] ¿Lo platicamos juntas?

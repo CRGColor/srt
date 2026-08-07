@@ -1,0 +1,4773 @@
+{
+ "source": "subs/이 고기가 무려 10억!？ 찐 RICH 레스토랑 입성! 💸 ㅣ울프강 스테이크 하우스ㅣ워크돌ㅣ베이비몬스터 아사, 로라 [L62TDQog5CA].en.srt",
+ "cues": [
+  {
+   "i": 1,
+   "s": "00:00:00,000",
+   "e": "00:00:02,361",
+   "t": "",
+   "x": "Did you cut this yourself today?",
+   "skip": false
+  },
+  {
+   "i": 2,
+   "s": "00:00:02,386",
+   "e": "00:00:03,195",
+   "t": "",
+   "x": "Yes, that's right",
+   "skip": false
+  },
+  {
+   "i": 3,
+   "s": "00:00:03,220",
+   "e": "00:00:04,980",
+   "t": "",
+   "x": "Where did all this meat go?",
+   "skip": false
+  },
+  {
+   "i": 4,
+   "s": "00:00:06,166",
+   "e": "00:00:07,026",
+   "t": "",
+   "x": "At this rate,",
+   "skip": false
+  },
+  {
+   "i": 5,
+   "s": "00:00:07,140",
+   "e": "00:00:08,920",
+   "t": "",
+   "x": "I don’t think I can pay you today",
+   "skip": false
+  },
+  {
+   "i": 6,
+   "s": "00:00:09,033",
+   "e": "00:00:10,715",
+   "t": "",
+   "x": "There were bones, bones everywhere",
+   "skip": false
+  },
+  {
+   "i": 7,
+   "s": "00:00:10,740",
+   "e": "00:00:11,395",
+   "t": "",
+   "x": "Aren’t you the sunbae here?",
+   "skip": false
+  },
+  {
+   "i": 8,
+   "s": "00:00:11,420",
+   "e": "00:00:11,960",
+   "t": "",
+   "x": "That’s right",
+   "skip": false
+  },
+  {
+   "i": 9,
+   "s": "00:00:12,306",
+   "e": "00:00:13,813",
+   "t": "",
+   "x": "If you teach like this,\nwho’s going to take responsibility?",
+   "skip": false
+  },
+  {
+   "i": 10,
+   "s": "00:00:14,266",
+   "e": "00:00:14,766",
+   "t": "",
+   "x": "Oh no…",
+   "skip": false
+  },
+  {
+   "i": 11,
+   "s": "00:00:15,366",
+   "e": "00:00:17,759",
+   "t": "",
+   "x": "Isn’t it the senior's job\nto manage the juniors properly?",
+   "skip": false
+  },
+  {
+   "i": 12,
+   "s": "00:00:19,654",
+   "e": "00:00:20,320",
+   "t": "",
+   "x": "(Asa/ Rora/ BABYMONSTER)\nAsa",
+   "skip": false
+  },
+  {
+   "i": 13,
+   "s": "00:00:20,320",
+   "e": "00:00:22,156",
+   "t": "",
+   "x": "Do you think you can film Workdol\nwhile on a world tour?",
+   "skip": false
+  },
+  {
+   "i": 14,
+   "s": "00:00:22,156",
+   "e": "00:00:23,457",
+   "t": "",
+   "x": "Washing dishes?",
+   "skip": false
+  },
+  {
+   "i": 15,
+   "s": "00:00:23,457",
+   "e": "00:00:24,458",
+   "t": "",
+   "x": "Cleaning the grill?",
+   "skip": false
+  },
+  {
+   "i": 16,
+   "s": "00:00:24,458",
+   "e": "00:00:26,226",
+   "t": "",
+   "x": "I'll do whatever needs to be done",
+   "skip": false
+  },
+  {
+   "i": 17,
+   "s": "00:00:27,060",
+   "e": "00:00:27,761",
+   "t": "",
+   "x": "(Cheating)",
+   "skip": false
+  },
+  {
+   "i": 18,
+   "s": "00:00:27,764",
+   "e": "00:00:29,096",
+   "t": "",
+   "x": "Don't look too closely",
+   "skip": false
+  },
+  {
+   "i": 19,
+   "s": "00:00:29,097",
+   "e": "00:00:29,930",
+   "t": "",
+   "x": "(Just wait)",
+   "skip": false
+  },
+  {
+   "i": 20,
+   "s": "00:00:29,930",
+   "e": "00:00:31,665",
+   "t": "",
+   "x": "Do you not understand\neven if I write the lines?",
+   "skip": false
+  },
+  {
+   "i": 21,
+   "s": "00:00:31,665",
+   "e": "00:00:32,867",
+   "t": "",
+   "x": "(Memory issue)",
+   "skip": false
+  },
+  {
+   "i": 22,
+   "s": "00:00:32,868",
+   "e": "00:00:33,667",
+   "t": "",
+   "x": "It's okay",
+   "skip": false
+  },
+  {
+   "i": 23,
+   "s": "00:00:33,667",
+   "e": "00:00:34,402",
+   "t": "",
+   "x": "(Take two)\nAsa",
+   "skip": false
+  },
+  {
+   "i": 24,
+   "s": "00:00:34,402",
+   "e": "00:00:36,203",
+   "t": "",
+   "x": "Do you think you can film Workdol\nwhile on a world tour?",
+   "skip": false
+  },
+  {
+   "i": 25,
+   "s": "00:00:36,203",
+   "e": "00:00:37,104",
+   "t": "",
+   "x": "Washing dishes?",
+   "skip": false
+  },
+  {
+   "i": 26,
+   "s": "00:00:37,104",
+   "e": "00:00:38,172",
+   "t": "",
+   "x": "Cleaning the grill?",
+   "skip": false
+  },
+  {
+   "i": 27,
+   "s": "00:00:38,172",
+   "e": "00:00:39,807",
+   "t": "",
+   "x": "I'll do whatever needs to be done",
+   "skip": false
+  },
+  {
+   "i": 28,
+   "s": "00:00:39,807",
+   "e": "00:00:41,542",
+   "t": "",
+   "x": "Don't let anyone else decide my worth",
+   "skip": false
+  },
+  {
+   "i": 29,
+   "s": "00:00:41,542",
+   "e": "00:00:43,077",
+   "t": "",
+   "x": "My life is just getting started,",
+   "skip": false
+  },
+  {
+   "i": 30,
+   "s": "00:00:43,077",
+   "e": "00:00:43,844",
+   "t": "",
+   "x": "and I'm going to",
+   "skip": false
+  },
+  {
+   "i": 31,
+   "s": "00:00:43,844",
+   "e": "00:00:46,147",
+   "t": "",
+   "x": "live eating only the finest steak",
+   "skip": false
+  },
+  {
+   "i": 32,
+   "s": "00:00:46,147",
+   "e": "00:00:47,748",
+   "t": "",
+   "x": "So, where am I working today?",
+   "skip": false
+  },
+  {
+   "i": 33,
+   "s": "00:00:47,748",
+   "e": "00:00:48,949",
+   "t": "",
+   "x": "At a steakhouse",
+   "skip": false
+  },
+  {
+   "i": 34,
+   "s": "00:00:48,949",
+   "e": "00:00:50,284",
+   "t": "",
+   "x": "Think I can sneak a bite?",
+   "skip": false
+  },
+  {
+   "i": 35,
+   "s": "00:00:50,285",
+   "e": "00:00:51,786",
+   "t": "",
+   "x": "I can probably take a bite, right?",
+   "skip": false
+  },
+  {
+   "i": 36,
+   "s": "00:00:52,586",
+   "e": "00:00:53,454",
+   "t": "",
+   "x": "(Rich man's hotspot Wolfgang)",
+   "skip": false
+  },
+  {
+   "i": 37,
+   "s": "00:00:54,254",
+   "e": "00:00:55,522",
+   "t": "",
+   "x": "(Steakhouse part-timer)",
+   "skip": false
+  },
+  {
+   "i": 38,
+   "s": "00:00:55,522",
+   "e": "00:00:56,723",
+   "t": "",
+   "x": "I've heard",
+   "skip": false
+  },
+  {
+   "i": 39,
+   "s": "00:00:56,723",
+   "e": "00:00:58,458",
+   "t": "",
+   "x": "this place is really expensive",
+   "skip": false
+  },
+  {
+   "i": 40,
+   "s": "00:00:58,458",
+   "e": "00:01:02,162",
+   "t": "",
+   "x": "(A place where the wealthy come to dine)\nThey say a lot of rich folks\nvisit this steakhouse",
+   "skip": false
+  },
+  {
+   "i": 41,
+   "s": "00:01:02,162",
+   "e": "00:01:04,531",
+   "t": "",
+   "x": "So today, Asa unnie is treating me to steak",
+   "skip": false
+  },
+  {
+   "i": 42,
+   "s": "00:01:04,531",
+   "e": "00:01:05,632",
+   "t": "",
+   "x": "Um, let me",
+   "skip": false
+  },
+  {
+   "i": 43,
+   "s": "00:01:05,633",
+   "e": "00:01:05,966",
+   "t": "",
+   "x": "think",
+   "skip": false
+  },
+  {
+   "i": 44,
+   "s": "00:01:05,972",
+   "e": "00:01:07,033",
+   "t": "",
+   "x": "about that for a second",
+   "skip": false
+  },
+  {
+   "i": 45,
+   "s": "00:01:07,033",
+   "e": "00:01:08,101",
+   "t": "",
+   "x": "My bank account is",
+   "skip": false
+  },
+  {
+   "i": 46,
+   "s": "00:01:08,101",
+   "e": "00:01:09,936",
+   "t": "",
+   "x": "pretty much empty right now",
+   "skip": false
+  },
+  {
+   "i": 47,
+   "s": "00:01:09,936",
+   "e": "00:01:11,705",
+   "t": "",
+   "x": "(Actually came here to make money)",
+   "skip": false
+  },
+  {
+   "i": 48,
+   "s": "00:01:11,705",
+   "e": "00:01:13,974",
+   "t": "",
+   "x": "(3-00 PM - Heading to work)\nSince I'm a bit more experienced",
+   "skip": false
+  },
+  {
+   "i": 49,
+   "s": "00:01:13,974",
+   "e": "00:01:16,109",
+   "t": "",
+   "x": "(Workdol experienced worker's bluff)\n- Follow me\n- Because you're experienced",
+   "skip": false
+  },
+  {
+   "i": 50,
+   "s": "00:01:16,109",
+   "e": "00:01:19,145",
+   "t": "",
+   "x": "But today, since many\nhigh-profile people are coming,",
+   "skip": false
+  },
+  {
+   "i": 51,
+   "s": "00:01:19,145",
+   "e": "00:01:20,480",
+   "t": "",
+   "x": "let's maintain our dignity",
+   "skip": false
+  },
+  {
+   "i": 52,
+   "s": "00:01:20,480",
+   "e": "00:01:20,947",
+   "t": "",
+   "x": "Right",
+   "skip": false
+  },
+  {
+   "i": 53,
+   "s": "00:01:20,947",
+   "e": "00:01:23,283",
+   "t": "",
+   "x": "How's everyone doing?",
+   "skip": false
+  },
+  {
+   "i": 54,
+   "s": "00:01:23,283",
+   "e": "00:01:24,684",
+   "t": "",
+   "x": "How's everyone doing?",
+   "skip": false
+  },
+  {
+   "i": 55,
+   "s": "00:01:24,684",
+   "e": "00:01:26,786",
+   "t": "",
+   "x": "(Dignity that raises doubts about her hometown)\n- In this kind of vibe\n- It's strange",
+   "skip": false
+  },
+  {
+   "i": 56,
+   "s": "00:01:26,786",
+   "e": "00:01:27,954",
+   "t": "",
+   "x": "Hello",
+   "skip": false
+  },
+  {
+   "i": 57,
+   "s": "00:01:27,954",
+   "e": "00:01:28,655",
+   "t": "",
+   "x": "Hello",
+   "skip": false
+  },
+  {
+   "i": 58,
+   "s": "00:01:28,655",
+   "e": "00:01:32,158",
+   "t": "",
+   "x": "Welcome to our Wolfgang Steakhouse!",
+   "skip": false
+  },
+  {
+   "i": 59,
+   "s": "00:01:32,158",
+   "e": "00:01:34,227",
+   "t": "",
+   "x": "(Han Soomin)\n(3rd year)\nWe're the best steakhouse in South Korea",
+   "skip": false
+  },
+  {
+   "i": 60,
+   "s": "00:01:34,227",
+   "e": "00:01:36,696",
+   "t": "",
+   "x": "I've heard that many VIPs",
+   "skip": false
+  },
+  {
+   "i": 61,
+   "s": "00:01:36,696",
+   "e": "00:01:39,666",
+   "t": "",
+   "x": "and business people come here often",
+   "skip": false
+  },
+  {
+   "i": 62,
+   "s": "00:01:39,666",
+   "e": "00:01:42,302",
+   "t": "",
+   "x": "They host parties and events as well",
+   "skip": false
+  },
+  {
+   "i": 63,
+   "s": "00:01:42,302",
+   "e": "00:01:45,205",
+   "t": "",
+   "x": "(Q. Who was the prettiest?)\nThen, is there an artist\nwho left the biggest impression on you?",
+   "skip": false
+  },
+  {
+   "i": 64,
+   "s": "00:01:45,205",
+   "e": "00:01:46,339",
+   "t": "",
+   "x": "For me, it's BLACKPINK",
+   "skip": false
+  },
+  {
+   "i": 65,
+   "s": "00:01:46,339",
+   "e": "00:01:46,873",
+   "t": "",
+   "x": "Uh",
+   "skip": false
+  },
+  {
+   "i": 66,
+   "s": "00:01:46,873",
+   "e": "00:01:47,974",
+   "t": "",
+   "x": "Oh, wowww",
+   "skip": false
+  },
+  {
+   "i": 67,
+   "s": "00:01:47,974",
+   "e": "00:01:48,642",
+   "t": "",
+   "x": "Amazing",
+   "skip": false
+  },
+  {
+   "i": 68,
+   "s": "00:01:48,642",
+   "e": "00:01:51,211",
+   "t": "",
+   "x": "(Feeling that YG hype)",
+   "skip": false
+  },
+  {
+   "i": 69,
+   "s": "00:01:51,213",
+   "e": "00:01:52,712",
+   "t": "",
+   "x": "(Stop)\nBefore we get started,",
+   "skip": false
+  },
+  {
+   "i": 70,
+   "s": "00:01:52,712",
+   "e": "00:01:54,748",
+   "t": "",
+   "x": "let me just say a few things",
+   "skip": false
+  },
+  {
+   "i": 71,
+   "s": "00:01:54,748",
+   "e": "00:01:55,782",
+   "t": "",
+   "x": "The kitchen can be",
+   "skip": false
+  },
+  {
+   "i": 72,
+   "s": "00:01:55,782",
+   "e": "00:01:56,750",
+   "t": "",
+   "x": "a really dangerous place",
+   "skip": false
+  },
+  {
+   "i": 73,
+   "s": "00:01:56,750",
+   "e": "00:01:57,717",
+   "t": "",
+   "x": "Knives can go flying around",
+   "skip": false
+  },
+  {
+   "i": 74,
+   "s": "00:01:57,718",
+   "e": "00:01:58,184",
+   "t": "",
+   "x": "Whoa!",
+   "skip": false
+  },
+  {
+   "i": 75,
+   "s": "00:01:58,184",
+   "e": "00:01:59,586",
+   "t": "",
+   "x": "And flames can suddenly flare up\nall over the place",
+   "skip": false
+  },
+  {
+   "i": 76,
+   "s": "00:01:59,586",
+   "e": "00:02:00,353",
+   "t": "",
+   "x": "Whoa!",
+   "skip": false
+  },
+  {
+   "i": 77,
+   "s": "00:02:00,353",
+   "e": "00:02:00,754",
+   "t": "",
+   "x": "So",
+   "skip": false
+  },
+  {
+   "i": 78,
+   "s": "00:02:00,754",
+   "e": "00:02:01,988",
+   "t": "",
+   "x": "you need to get yourself in line",
+   "skip": false
+  },
+  {
+   "i": 79,
+   "s": "00:02:01,988",
+   "e": "00:02:02,789",
+   "t": "",
+   "x": "(Yes, sir)\nand",
+   "skip": false
+  },
+  {
+   "i": 80,
+   "s": "00:02:02,789",
+   "e": "00:02:03,823",
+   "t": "",
+   "x": "start working with discipline",
+   "skip": false
+  },
+  {
+   "i": 81,
+   "s": "00:02:03,823",
+   "e": "00:02:05,792",
+   "t": "",
+   "x": "(Nervously alert)\n- Yes, understood\n- Got it?",
+   "skip": false
+  },
+  {
+   "i": 82,
+   "s": "00:02:05,792",
+   "e": "00:02:09,062",
+   "t": "",
+   "x": "(3:30 PM - Meat prep)\nYou'll now follow me and work on the meat",
+   "skip": false
+  },
+  {
+   "i": 83,
+   "s": "00:02:09,062",
+   "e": "00:02:10,830",
+   "t": "",
+   "x": "If you two don't do it right,",
+   "skip": false
+  },
+  {
+   "i": 84,
+   "s": "00:02:10,830",
+   "e": "00:02:11,765",
+   "t": "",
+   "x": "you're going to get scolded",
+   "skip": false
+  },
+  {
+   "i": 85,
+   "s": "00:02:11,766",
+   "e": "00:02:13,466",
+   "t": "",
+   "x": "(Is this the start of strict discipline...?)\nWe'll get in trouble...?",
+   "skip": false
+  },
+  {
+   "i": 86,
+   "s": "00:02:13,466",
+   "e": "00:02:15,402",
+   "t": "",
+   "x": "How should I address you?",
+   "skip": false
+  },
+  {
+   "i": 87,
+   "s": "00:02:15,402",
+   "e": "00:02:17,771",
+   "t": "",
+   "x": "(Strictly)\nPlease call me Chef",
+   "skip": false
+  },
+  {
+   "i": 88,
+   "s": "00:02:17,771",
+   "e": "00:02:18,738",
+   "t": "",
+   "x": "Soomin",
+   "skip": false
+  },
+  {
+   "i": 89,
+   "s": "00:02:18,741",
+   "e": "00:02:19,340",
+   "t": "",
+   "x": "senpai",
+   "skip": false
+  },
+  {
+   "i": 90,
+   "s": "00:02:19,340",
+   "e": "00:02:20,040",
+   "t": "",
+   "x": "Soomin",
+   "skip": false
+  },
+  {
+   "i": 91,
+   "s": "00:02:20,040",
+   "e": "00:02:20,641",
+   "t": "",
+   "x": "senpai",
+   "skip": false
+  },
+  {
+   "i": 92,
+   "s": "00:02:20,641",
+   "e": "00:02:22,309",
+   "t": "",
+   "x": "Chef Soomin to you",
+   "skip": false
+  },
+  {
+   "i": 93,
+   "s": "00:02:22,309",
+   "e": "00:02:23,377",
+   "t": "",
+   "x": "That's really, really cute",
+   "skip": false
+  },
+  {
+   "i": 94,
+   "s": "00:02:23,377",
+   "e": "00:02:25,012",
+   "t": "",
+   "x": "(Disarmed)\nIn Japan, they'd call him senpai",
+   "skip": false
+  },
+  {
+   "i": 95,
+   "s": "00:02:25,012",
+   "e": "00:02:27,414",
+   "t": "",
+   "x": "Now, let's head into the aging room",
+   "skip": false
+  },
+  {
+   "i": 96,
+   "s": "00:02:27,415",
+   "e": "00:02:28,315",
+   "t": "",
+   "x": "(Serious)\nIt's kind of like a trade secret",
+   "skip": false
+  },
+  {
+   "i": 97,
+   "s": "00:02:28,315",
+   "e": "00:02:29,350",
+   "t": "",
+   "x": "Oh wow",
+   "skip": false
+  },
+  {
+   "i": 98,
+   "s": "00:02:29,352",
+   "e": "00:02:30,384",
+   "t": "",
+   "x": "A trade secret",
+   "skip": false
+  },
+  {
+   "i": 99,
+   "s": "00:02:30,384",
+   "e": "00:02:33,554",
+   "t": "",
+   "x": "(A rather feeble warning)\n- You can't tell anyone about this\n- Seriously, don't tell anyone",
+   "skip": false
+  },
+  {
+   "i": 100,
+   "s": "00:02:33,554",
+   "e": "00:02:35,155",
+   "t": "",
+   "x": "(Entering)\nThese are some\nseriously expensive cuts of meat",
+   "skip": false
+  },
+  {
+   "i": 101,
+   "s": "00:02:35,156",
+   "e": "00:02:36,223",
+   "t": "",
+   "x": "Amazing",
+   "skip": false
+  },
+  {
+   "i": 102,
+   "s": "00:02:36,223",
+   "e": "00:02:37,691",
+   "t": "",
+   "x": "That's a huge amount",
+   "skip": false
+  },
+  {
+   "i": 103,
+   "s": "00:02:37,691",
+   "e": "00:02:40,327",
+   "t": "",
+   "x": "We carefully select just 2% of American beef,",
+   "skip": false
+  },
+  {
+   "i": 104,
+   "s": "00:02:40,327",
+   "e": "00:02:44,631",
+   "t": "",
+   "x": "(Only the finest, handpicked beef)\nand then dry-age it ourselves\nusing our own expertise",
+   "skip": false
+  },
+  {
+   "i": 105,
+   "s": "00:02:44,631",
+   "e": "00:02:48,335",
+   "t": "",
+   "x": "(Q. How much is all this?)\nSo, about how much are these meats worth?",
+   "skip": false
+  },
+  {
+   "i": 106,
+   "s": "00:02:48,335",
+   "e": "00:02:49,469",
+   "t": "",
+   "x": "If you pack it all in,",
+   "skip": false
+  },
+  {
+   "i": 107,
+   "s": "00:02:49,469",
+   "e": "00:02:50,337",
+   "t": "",
+   "x": "nearly a billion won?",
+   "skip": false
+  },
+  {
+   "i": 108,
+   "s": "00:02:50,337",
+   "e": "00:02:51,538",
+   "t": "",
+   "x": "Whoa!",
+   "skip": false
+  },
+  {
+   "i": 109,
+   "s": "00:02:51,538",
+   "e": "00:02:52,372",
+   "t": "",
+   "x": "A billion won",
+   "skip": false
+  },
+  {
+   "i": 110,
+   "s": "00:02:52,372",
+   "e": "00:02:53,941",
+   "t": "",
+   "x": "(Time to snatch and run)\nLet's grab one",
+   "skip": false
+  },
+  {
+   "i": 111,
+   "s": "00:02:53,941",
+   "e": "00:02:55,375",
+   "t": "",
+   "x": "How many kilos is each one?",
+   "skip": false
+  },
+  {
+   "i": 112,
+   "s": "00:02:55,375",
+   "e": "00:02:56,577",
+   "t": "",
+   "x": "Each one weighs 15 kilos",
+   "skip": false
+  },
+  {
+   "i": 113,
+   "s": "00:02:56,577",
+   "e": "00:02:57,277",
+   "t": "",
+   "x": "Whoa",
+   "skip": false
+  },
+  {
+   "i": 114,
+   "s": "00:02:57,277",
+   "e": "00:02:57,845",
+   "t": "",
+   "x": "On average,",
+   "skip": false
+  },
+  {
+   "i": 115,
+   "s": "00:02:57,845",
+   "e": "00:02:59,847",
+   "t": "",
+   "x": "- they're about 13 to 15 kilos each\n- Wow, that's really heavy",
+   "skip": false
+  },
+  {
+   "i": 116,
+   "s": "00:02:59,847",
+   "e": "00:03:02,883",
+   "t": "",
+   "x": "(Conspiring openly)\nWe could just carry it together\nwhen we head out",
+   "skip": false
+  },
+  {
+   "i": 117,
+   "s": "00:03:02,883",
+   "e": "00:03:06,119",
+   "t": "",
+   "x": "(Time to move the meat)\nNow we have to take this meat outside",
+   "skip": false
+  },
+  {
+   "i": 118,
+   "s": "00:03:06,119",
+   "e": "00:03:08,288",
+   "t": "",
+   "x": "(Trying to act tough)\nWhoa, Asa, there's no way you can lift this",
+   "skip": false
+  },
+  {
+   "i": 119,
+   "s": "00:03:08,288",
+   "e": "00:03:09,890",
+   "t": "",
+   "x": "(Offended)\nI've been working out lately",
+   "skip": false
+  },
+  {
+   "i": 120,
+   "s": "00:03:10,487",
+   "e": "00:03:12,492",
+   "t": "",
+   "x": "Asa works out",
+   "skip": false
+  },
+  {
+   "i": 121,
+   "s": "00:03:12,492",
+   "e": "00:03:14,194",
+   "t": "",
+   "x": "(This is tough)\nOh, wait a second",
+   "skip": false
+  },
+  {
+   "i": 122,
+   "s": "00:03:14,194",
+   "e": "00:03:17,497",
+   "t": "",
+   "x": "(The dream of embezzlement is gone)\nLet’s just share one between us,\nthis isn’t going to work",
+   "skip": false
+  },
+  {
+   "i": 123,
+   "s": "00:03:17,497",
+   "e": "00:03:19,066",
+   "t": "",
+   "x": "Let’s start with",
+   "skip": false
+  },
+  {
+   "i": 124,
+   "s": "00:03:19,066",
+   "e": "00:03:21,234",
+   "t": "",
+   "x": "(Performance)\nthe trimming step first",
+   "skip": false
+  },
+  {
+   "i": 125,
+   "s": "00:03:21,234",
+   "e": "00:03:22,603",
+   "t": "",
+   "x": "Don’t act like an idol",
+   "skip": false
+  },
+  {
+   "i": 126,
+   "s": "00:03:22,603",
+   "e": "00:03:23,704",
+   "t": "",
+   "x": "Keep it classy",
+   "skip": false
+  },
+  {
+   "i": 127,
+   "s": "00:03:23,704",
+   "e": "00:03:25,872",
+   "t": "",
+   "x": "(Flirting confiscation for a moment)\nOkay",
+   "skip": false
+  },
+  {
+   "i": 128,
+   "s": "00:03:25,872",
+   "e": "00:03:28,575",
+   "t": "",
+   "x": "Alright, let’s try trimming this",
+   "skip": false
+  },
+  {
+   "i": 129,
+   "s": "00:03:28,575",
+   "e": "00:03:30,877",
+   "t": "",
+   "x": "(The process of removing unnecessary parts\nto improve meat quality)\nYou cut away all the inedible bits",
+   "skip": false
+  },
+  {
+   "i": 130,
+   "s": "00:03:30,877",
+   "e": "00:03:32,679",
+   "t": "",
+   "x": "Alright, let me show you first,",
+   "skip": false
+  },
+  {
+   "i": 131,
+   "s": "00:03:32,679",
+   "e": "00:03:34,414",
+   "t": "",
+   "x": "and then you can try it yourself",
+   "skip": false
+  },
+  {
+   "i": 132,
+   "s": "00:03:34,414",
+   "e": "00:03:34,781",
+   "t": "",
+   "x": "Okay",
+   "skip": false
+  },
+  {
+   "i": 133,
+   "s": "00:03:34,781",
+   "e": "00:03:35,949",
+   "t": "",
+   "x": "(Sneak peek)\nYou have to watch closely, Asa",
+   "skip": false
+  },
+  {
+   "i": 134,
+   "s": "00:03:35,949",
+   "e": "00:03:36,917",
+   "t": "",
+   "x": "I'm watching carefully",
+   "skip": false
+  },
+  {
+   "i": 135,
+   "s": "00:03:36,917",
+   "e": "00:03:38,552",
+   "t": "",
+   "x": "Don't mess up the meat, okay?",
+   "skip": false
+  },
+  {
+   "i": 136,
+   "s": "00:03:38,552",
+   "e": "00:03:39,019",
+   "t": "",
+   "x": "We'll get complaints if you do",
+   "skip": false
+  },
+  {
+   "i": 137,
+   "s": "00:03:39,019",
+   "e": "00:03:40,487",
+   "t": "",
+   "x": "They say this is tenderloin",
+   "skip": false
+  },
+  {
+   "i": 138,
+   "s": "00:03:40,487",
+   "e": "00:03:41,888",
+   "t": "",
+   "x": "Doesn't that make you feel tender?",
+   "skip": false
+  },
+  {
+   "i": 139,
+   "s": "00:03:41,888",
+   "e": "00:03:43,423",
+   "t": "",
+   "x": "(Seriously...)",
+   "skip": false
+  },
+  {
+   "i": 140,
+   "s": "00:03:43,423",
+   "e": "00:03:45,826",
+   "t": "",
+   "x": "Okay, always be careful with knives",
+   "skip": false
+  },
+  {
+   "i": 141,
+   "s": "00:03:45,826",
+   "e": "00:03:48,295",
+   "t": "",
+   "x": "(Right up to it)\nWatch your fingers",
+   "skip": false
+  },
+  {
+   "i": 142,
+   "s": "00:03:48,295",
+   "e": "00:03:50,664",
+   "t": "",
+   "x": "(Trimming the meat\n1. Removing the fat layer)\nCarefully trim away the fat",
+   "skip": false
+  },
+  {
+   "i": 143,
+   "s": "00:03:50,664",
+   "e": "00:03:53,667",
+   "t": "",
+   "x": "(2. Remove any unnecessary parts)\nTrim off all the excess meat like this",
+   "skip": false
+  },
+  {
+   "i": 144,
+   "s": "00:03:53,667",
+   "e": "00:03:57,371",
+   "t": "",
+   "x": "(3. Trimming)\n- Make it look nice\n- Now it's just pure tenderloin left",
+   "skip": false
+  },
+  {
+   "i": 145,
+   "s": "00:03:57,371",
+   "e": "00:03:58,705",
+   "t": "",
+   "x": "If you slip with the knife,",
+   "skip": false
+  },
+  {
+   "i": 146,
+   "s": "00:03:58,705",
+   "e": "00:04:00,007",
+   "t": "",
+   "x": "you'll lose ten\nor twenty thousand won just like that",
+   "skip": false
+  },
+  {
+   "i": 147,
+   "s": "00:04:00,008",
+   "e": "00:04:00,707",
+   "t": "",
+   "x": "Whoa!",
+   "skip": false
+  },
+  {
+   "i": 148,
+   "s": "00:04:00,707",
+   "e": "00:04:02,509",
+   "t": "",
+   "x": "Have you ever gotten in trouble\nfor slicing something wrong?",
+   "skip": false
+  },
+  {
+   "i": 149,
+   "s": "00:04:02,509",
+   "e": "00:04:03,443",
+   "t": "",
+   "x": "Oh, plenty of times",
+   "skip": false
+  },
+  {
+   "i": 150,
+   "s": "00:04:03,443",
+   "e": "00:04:04,211",
+   "t": "",
+   "x": "Get over to the freezer",
+   "skip": false
+  },
+  {
+   "i": 151,
+   "s": "00:04:04,211",
+   "e": "00:04:04,845",
+   "t": "",
+   "x": "It was kind of like that vibe",
+   "skip": false
+  },
+  {
+   "i": 152,
+   "s": "00:04:06,847",
+   "e": "00:04:09,183",
+   "t": "",
+   "x": "(Turns out, it was the room of truth..?)\nLuckily, I wasn't actually hit",
+   "skip": false
+  },
+  {
+   "i": 153,
+   "s": "00:04:09,183",
+   "e": "00:04:11,118",
+   "t": "",
+   "x": "(Straight into action)\nLet's have you two give it a try",
+   "skip": false
+  },
+  {
+   "i": 154,
+   "s": "00:04:11,118",
+   "e": "00:04:12,152",
+   "t": "",
+   "x": "I used to be",
+   "skip": false
+  },
+  {
+   "i": 155,
+   "s": "00:04:12,152",
+   "e": "00:04:13,220",
+   "t": "",
+   "x": "a bit of a kid chef, you know",
+   "skip": false
+  },
+  {
+   "i": 156,
+   "s": "00:04:13,220",
+   "e": "00:04:14,388",
+   "t": "",
+   "x": "Oh",
+   "skip": false
+  },
+  {
+   "i": 157,
+   "s": "00:04:14,388",
+   "e": "00:04:17,124",
+   "t": "",
+   "x": "(Experienced chef)\n- That's right, you were a kids' chef\n- I can trust you in the kitchen",
+   "skip": false
+  },
+  {
+   "i": 158,
+   "s": "00:04:17,125",
+   "e": "00:04:17,591",
+   "t": "",
+   "x": "What about Asa?",
+   "skip": false
+  },
+  {
+   "i": 159,
+   "s": "00:04:17,591",
+   "e": "00:04:18,859",
+   "t": "",
+   "x": "I'm pretty good at cooking",
+   "skip": false
+  },
+  {
+   "i": 160,
+   "s": "00:04:18,859",
+   "e": "00:04:21,028",
+   "t": "",
+   "x": "I even make galbijjim",
+   "skip": false
+  },
+  {
+   "i": 161,
+   "s": "00:04:21,029",
+   "e": "00:04:22,629",
+   "t": "",
+   "x": "(For real?)",
+   "skip": false
+  },
+  {
+   "i": 162,
+   "s": "00:04:23,630",
+   "e": "00:04:25,832",
+   "t": "",
+   "x": "(Professional-level air slicing)",
+   "skip": false
+  },
+  {
+   "i": 163,
+   "s": "00:04:25,832",
+   "e": "00:04:27,200",
+   "t": "",
+   "x": "You're not able to use a knife at all?",
+   "skip": false
+  },
+  {
+   "i": 164,
+   "s": "00:04:27,200",
+   "e": "00:04:29,169",
+   "t": "",
+   "x": "(How did you even make galbijjim?)\nHold on a second",
+   "skip": false
+  },
+  {
+   "i": 165,
+   "s": "00:04:29,169",
+   "e": "00:04:31,338",
+   "t": "",
+   "x": "(Extra lesson)\nLet me show you one more time",
+   "skip": false
+  },
+  {
+   "i": 166,
+   "s": "00:04:31,338",
+   "e": "00:04:32,839",
+   "t": "",
+   "x": "(Meanwhile, straight back to chopping)\nJust follow the bone down",
+   "skip": false
+  },
+  {
+   "i": 167,
+   "s": "00:04:32,839",
+   "e": "00:04:35,375",
+   "t": "",
+   "x": "(Is this what experience looks like?)",
+   "skip": false
+  },
+  {
+   "i": 168,
+   "s": "00:04:35,376",
+   "e": "00:04:36,443",
+   "t": "",
+   "x": "Aren't I doing pretty well?",
+   "skip": false
+  },
+  {
+   "i": 169,
+   "s": "00:04:36,443",
+   "e": "00:04:37,577",
+   "t": "",
+   "x": "Yeah, you're doing great",
+   "skip": false
+  },
+  {
+   "i": 170,
+   "s": "00:04:37,577",
+   "e": "00:04:40,313",
+   "t": "",
+   "x": "(Slicing through with ease)\n- I think you should get hired here\n- You're a real catch, you know?",
+   "skip": false
+  },
+  {
+   "i": 171,
+   "s": "00:04:40,313",
+   "e": "00:04:42,983",
+   "t": "",
+   "x": "(Finished 5 pieces in no time)\nI think it's best to stop here for now",
+   "skip": false
+  },
+  {
+   "i": 172,
+   "s": "00:04:42,983",
+   "e": "00:04:44,084",
+   "t": "",
+   "x": "Hold on a second",
+   "skip": false
+  },
+  {
+   "i": 173,
+   "s": "00:04:44,084",
+   "e": "00:04:45,719",
+   "t": "",
+   "x": "Whoa, is this right?",
+   "skip": false
+  },
+  {
+   "i": 174,
+   "s": "00:04:45,719",
+   "e": "00:04:47,020",
+   "t": "",
+   "x": "(Couldn't even finish one piece here)",
+   "skip": false
+  },
+  {
+   "i": 175,
+   "s": "00:04:47,020",
+   "e": "00:04:48,355",
+   "t": "",
+   "x": "(In the middle of a battle)\nWhat are you doing?",
+   "skip": false
+  },
+  {
+   "i": 176,
+   "s": "00:04:48,355",
+   "e": "00:04:49,789",
+   "t": "",
+   "x": "Asa, what are you thinking about right now?",
+   "skip": false
+  },
+  {
+   "i": 177,
+   "s": "00:04:50,857",
+   "e": "00:04:51,725",
+   "t": "",
+   "x": "Huh?",
+   "skip": false
+  },
+  {
+   "i": 178,
+   "s": "00:04:51,725",
+   "e": "00:04:53,526",
+   "t": "",
+   "x": "I don't think\nwe should talk to Asa right now",
+   "skip": false
+  },
+  {
+   "i": 179,
+   "s": "00:04:53,526",
+   "e": "00:04:55,328",
+   "t": "",
+   "x": "(Slide)\nI'm super focused right now",
+   "skip": false
+  },
+  {
+   "i": 180,
+   "s": "00:04:55,329",
+   "e": "00:04:56,162",
+   "t": "",
+   "x": "No way",
+   "skip": false
+  },
+  {
+   "i": 181,
+   "s": "00:04:56,162",
+   "e": "00:04:56,796",
+   "t": "",
+   "x": "No way?",
+   "skip": false
+  },
+  {
+   "i": 182,
+   "s": "00:04:56,796",
+   "e": "00:04:57,364",
+   "t": "",
+   "x": "We're doomed",
+   "skip": false
+  },
+  {
+   "i": 183,
+   "s": "00:04:57,364",
+   "e": "00:04:59,032",
+   "t": "",
+   "x": "(So doomed)\nIt's doomed",
+   "skip": false
+  },
+  {
+   "i": 184,
+   "s": "00:04:59,032",
+   "e": "00:05:00,900",
+   "t": "",
+   "x": "I told you, don't talk to me",
+   "skip": false
+  },
+  {
+   "i": 185,
+   "s": "00:05:00,902",
+   "e": "00:05:01,701",
+   "t": "",
+   "x": "Mmm-hmm",
+   "skip": false
+  },
+  {
+   "i": 186,
+   "s": "00:05:01,701",
+   "e": "00:05:03,069",
+   "t": "",
+   "x": "We need to set the bone",
+   "skip": false
+  },
+  {
+   "i": 187,
+   "s": "00:05:03,069",
+   "e": "00:05:03,703",
+   "t": "",
+   "x": "Ah",
+   "skip": false
+  },
+  {
+   "i": 188,
+   "s": "00:05:03,703",
+   "e": "00:05:04,438",
+   "t": "",
+   "x": "(Refocusing)",
+   "skip": false
+  },
+  {
+   "i": 189,
+   "s": "00:05:04,441",
+   "e": "00:05:05,139",
+   "t": "",
+   "x": "Uh",
+   "skip": false
+  },
+  {
+   "i": 190,
+   "s": "00:05:05,141",
+   "e": "00:05:06,340",
+   "t": "",
+   "x": "She messed it up",
+   "skip": false
+  },
+  {
+   "i": 191,
+   "s": "00:05:06,341",
+   "e": "00:05:08,675",
+   "t": "",
+   "x": "(Still cutting into the money)\nChef, we've got 20,000 won deducted here",
+   "skip": false
+  },
+  {
+   "i": 192,
+   "s": "00:05:08,675",
+   "e": "00:05:10,344",
+   "t": "",
+   "x": "It's time to summon the fridge",
+   "skip": false
+  },
+  {
+   "i": 193,
+   "s": "00:05:10,344",
+   "e": "00:05:12,312",
+   "t": "",
+   "x": "(To the room of truth)\nFollow me to the freezer",
+   "skip": false
+  },
+  {
+   "i": 194,
+   "s": "00:05:12,312",
+   "e": "00:05:13,413",
+   "t": "",
+   "x": "Oh no",
+   "skip": false
+  },
+  {
+   "i": 195,
+   "s": "00:05:13,413",
+   "e": "00:05:14,581",
+   "t": "",
+   "x": "unnie, if you're dragged away later,\nI'm not responsible",
+   "skip": false
+  },
+  {
+   "i": 196,
+   "s": "00:05:14,581",
+   "e": "00:05:15,782",
+   "t": "",
+   "x": "Looks like I'm getting dragged away",
+   "skip": false
+  },
+  {
+   "i": 197,
+   "s": "00:05:15,782",
+   "e": "00:05:17,584",
+   "t": "",
+   "x": "It's not bad? Shall we try a bit more here?",
+   "skip": false
+  },
+  {
+   "i": 198,
+   "s": "00:05:18,418",
+   "e": "00:05:19,452",
+   "t": "",
+   "x": "What else should we do?",
+   "skip": false
+  },
+  {
+   "i": 199,
+   "s": "00:05:19,452",
+   "e": "00:05:21,454",
+   "t": "",
+   "x": "She needs to learn again",
+   "skip": false
+  },
+  {
+   "i": 200,
+   "s": "00:05:21,454",
+   "e": "00:05:23,623",
+   "t": "",
+   "x": "Can you eat this?",
+   "skip": false
+  },
+  {
+   "i": 201,
+   "s": "00:05:23,623",
+   "e": "00:05:24,858",
+   "t": "",
+   "x": "- No\n- No, you can't",
+   "skip": false
+  },
+  {
+   "i": 202,
+   "s": "00:05:24,858",
+   "e": "00:05:27,160",
+   "t": "",
+   "x": "- You can't eat it\n- So what do we do? Eliminate",
+   "skip": false
+  },
+  {
+   "i": 203,
+   "s": "00:05:27,160",
+   "e": "00:05:28,061",
+   "t": "",
+   "x": "Asa",
+   "skip": false
+  },
+  {
+   "i": 204,
+   "s": "00:05:28,061",
+   "e": "00:05:29,229",
+   "t": "",
+   "x": "We can't let Asa get eliminated",
+   "skip": false
+  },
+  {
+   "i": 205,
+   "s": "00:05:29,229",
+   "e": "00:05:30,163",
+   "t": "",
+   "x": "(Be careful)",
+   "skip": false
+  },
+  {
+   "i": 206,
+   "s": "00:05:30,164",
+   "e": "00:05:31,932",
+   "t": "",
+   "x": "What if Asa gets eliminated?",
+   "skip": false
+  },
+  {
+   "i": 207,
+   "s": "00:05:31,932",
+   "e": "00:05:33,800",
+   "t": "",
+   "x": "Now, you'll also get to meet",
+   "skip": false
+  },
+  {
+   "i": 208,
+   "s": "00:05:33,800",
+   "e": "00:05:36,469",
+   "t": "",
+   "x": "your sunbaes in the second floor kitchen",
+   "skip": false
+  },
+  {
+   "i": 209,
+   "s": "00:05:36,469",
+   "e": "00:05:37,003",
+   "t": "",
+   "x": "We're in trouble",
+   "skip": false
+  },
+  {
+   "i": 210,
+   "s": "00:05:37,003",
+   "e": "00:05:38,305",
+   "t": "",
+   "x": "I think we're really\ngoing to get scolded then",
+   "skip": false
+  },
+  {
+   "i": 211,
+   "s": "00:05:38,305",
+   "e": "00:05:40,140",
+   "t": "",
+   "x": "(Prepare to get wrecked)",
+   "skip": false
+  },
+  {
+   "i": 212,
+   "s": "00:05:40,140",
+   "e": "00:05:42,840",
+   "t": "",
+   "x": "(4:30 PM - Grilling Training)\n- Hello\n- I'm a new recruit",
+   "skip": false
+  },
+  {
+   "i": 213,
+   "s": "00:05:42,864",
+   "e": "00:05:44,524",
+   "t": "",
+   "x": "Before we start grilling this,",
+   "skip": false
+  },
+  {
+   "i": 214,
+   "s": "00:05:44,660",
+   "e": "00:05:46,053",
+   "t": "",
+   "x": "let's get our head chef",
+   "skip": false
+  },
+  {
+   "i": 215,
+   "s": "00:05:46,053",
+   "e": "00:05:47,655",
+   "t": "",
+   "x": "Our big boss",
+   "skip": false
+  },
+  {
+   "i": 216,
+   "s": "00:05:47,656",
+   "e": "00:05:48,256",
+   "t": "",
+   "x": "(Yikes)\nWhoa",
+   "skip": false
+  },
+  {
+   "i": 217,
+   "s": "00:05:48,256",
+   "e": "00:05:49,090",
+   "t": "",
+   "x": "Let's have",
+   "skip": false
+  },
+  {
+   "i": 218,
+   "s": "00:05:49,090",
+   "e": "00:05:50,658",
+   "t": "",
+   "x": "the chief inspect this first",
+   "skip": false
+  },
+  {
+   "i": 219,
+   "s": "00:05:50,658",
+   "e": "00:05:51,526",
+   "t": "",
+   "x": "Get ready to be scolded",
+   "skip": false
+  },
+  {
+   "i": 220,
+   "s": "00:05:51,526",
+   "e": "00:05:53,361",
+   "t": "",
+   "x": "What are you saying?\nYou should get ready",
+   "skip": false
+  },
+  {
+   "i": 221,
+   "s": "00:05:53,361",
+   "e": "00:05:56,564",
+   "t": "",
+   "x": "(Head chef appears)\nHello",
+   "skip": false
+  },
+  {
+   "i": 222,
+   "s": "00:05:56,564",
+   "e": "00:05:58,065",
+   "t": "",
+   "x": "(A step back)\nHow do you do",
+   "skip": false
+  },
+  {
+   "i": 223,
+   "s": "00:05:58,065",
+   "e": "00:05:58,633",
+   "t": "",
+   "x": "Whoa",
+   "skip": false
+  },
+  {
+   "i": 224,
+   "s": "00:05:58,633",
+   "e": "00:06:01,435",
+   "t": "",
+   "x": "Did you cut this yourself today?",
+   "skip": false
+  },
+  {
+   "i": 225,
+   "s": "00:06:01,435",
+   "e": "00:06:02,303",
+   "t": "",
+   "x": "Yes, that's right",
+   "skip": false
+  },
+  {
+   "i": 226,
+   "s": "00:06:02,303",
+   "e": "00:06:03,905",
+   "t": "",
+   "x": "Would you mind if I check it over?",
+   "skip": false
+  },
+  {
+   "i": 227,
+   "s": "00:06:03,906",
+   "e": "00:06:05,606",
+   "t": "",
+   "x": "Please do",
+   "skip": false
+  },
+  {
+   "i": 228,
+   "s": "00:06:05,606",
+   "e": "00:06:08,276",
+   "t": "",
+   "x": "(Trimming evaluation begins)\nWith eagle eyes",
+   "skip": false
+  },
+  {
+   "i": 229,
+   "s": "00:06:08,276",
+   "e": "00:06:10,111",
+   "t": "",
+   "x": "(Nervous...)",
+   "skip": false
+  },
+  {
+   "i": 230,
+   "s": "00:06:10,112",
+   "e": "00:06:11,145",
+   "t": "",
+   "x": "(Tilts head)",
+   "skip": false
+  },
+  {
+   "i": 231,
+   "s": "00:06:11,145",
+   "e": "00:06:13,247",
+   "t": "",
+   "x": "Where did all this meat go?",
+   "skip": false
+  },
+  {
+   "i": 232,
+   "s": "00:06:13,247",
+   "e": "00:06:15,383",
+   "t": "",
+   "x": "(The culprit)",
+   "skip": false
+  },
+  {
+   "i": 233,
+   "s": "00:06:15,383",
+   "e": "00:06:16,250",
+   "t": "",
+   "x": "At this rate,",
+   "skip": false
+  },
+  {
+   "i": 234,
+   "s": "00:06:16,250",
+   "e": "00:06:17,718",
+   "t": "",
+   "x": "I don’t think I can pay you today",
+   "skip": false
+  },
+  {
+   "i": 235,
+   "s": "00:06:17,719",
+   "e": "00:06:18,085",
+   "t": "",
+   "x": "Uh...",
+   "skip": false
+  },
+  {
+   "i": 236,
+   "s": "00:06:18,085",
+   "e": "00:06:19,787",
+   "t": "",
+   "x": "No way",
+   "skip": false
+  },
+  {
+   "i": 237,
+   "s": "00:06:19,787",
+   "e": "00:06:21,656",
+   "t": "",
+   "x": "(It’s the bones)\nThere were bones, bones everywhere",
+   "skip": false
+  },
+  {
+   "i": 238,
+   "s": "00:06:21,656",
+   "e": "00:06:22,490",
+   "t": "",
+   "x": "Aren’t you the sunbae here?",
+   "skip": false
+  },
+  {
+   "i": 239,
+   "s": "00:06:22,492",
+   "e": "00:06:23,190",
+   "t": "",
+   "x": "That’s right",
+   "skip": false
+  },
+  {
+   "i": 240,
+   "s": "00:06:23,193",
+   "e": "00:06:24,893",
+   "t": "",
+   "x": "If you teach like this,\nwho’s going to take responsibility?",
+   "skip": false
+  },
+  {
+   "i": 241,
+   "s": "00:06:24,893",
+   "e": "00:06:26,461",
+   "t": "",
+   "x": "(Nervous/ Super nervous)\nOh, no",
+   "skip": false
+  },
+  {
+   "i": 242,
+   "s": "00:06:26,461",
+   "e": "00:06:28,630",
+   "t": "",
+   "x": "(Getting a harsh scolding)\nIsn’t it the senior's job\nto manage the juniors properly?",
+   "skip": false
+  },
+  {
+   "i": 243,
+   "s": "00:06:28,630",
+   "e": "00:06:29,497",
+   "t": "",
+   "x": "Yes, sir",
+   "skip": false
+  },
+  {
+   "i": 244,
+   "s": "00:06:29,497",
+   "e": "00:06:30,899",
+   "t": "",
+   "x": "How are we going to\ntake responsibility for this?",
+   "skip": false
+  },
+  {
+   "i": 245,
+   "s": "00:06:30,899",
+   "e": "00:06:32,300",
+   "t": "",
+   "x": "(Awkward silence)",
+   "skip": false
+  },
+  {
+   "i": 246,
+   "s": "00:06:32,300",
+   "e": "00:06:33,468",
+   "t": "",
+   "x": "Boss",
+   "skip": false
+  },
+  {
+   "i": 247,
+   "s": "00:06:33,469",
+   "e": "00:06:34,369",
+   "t": "",
+   "x": "We'll do the dishes",
+   "skip": false
+  },
+  {
+   "i": 248,
+   "s": "00:06:34,369",
+   "e": "00:06:35,603",
+   "t": "",
+   "x": "Next time,",
+   "skip": false
+  },
+  {
+   "i": 249,
+   "s": "00:06:35,603",
+   "e": "00:06:37,038",
+   "t": "",
+   "x": "we'll invite you to our concert",
+   "skip": false
+  },
+  {
+   "i": 250,
+   "s": "00:06:37,038",
+   "e": "00:06:39,207",
+   "t": "",
+   "x": "(Grin)\nOh, really?",
+   "skip": false
+  },
+  {
+   "i": 251,
+   "s": "00:06:39,207",
+   "e": "00:06:40,475",
+   "t": "",
+   "x": "(In a flash)\nAlright, I'll take responsibility for this",
+   "skip": false
+  },
+  {
+   "i": 252,
+   "s": "00:06:40,475",
+   "e": "00:06:41,376",
+   "t": "",
+   "x": "(Speechless)",
+   "skip": false
+  },
+  {
+   "i": 253,
+   "s": "00:06:41,376",
+   "e": "00:06:42,177",
+   "t": "",
+   "x": "Thank you",
+   "skip": false
+  },
+  {
+   "i": 254,
+   "s": "00:06:42,177",
+   "e": "00:06:44,245",
+   "t": "",
+   "x": "(Thanks for the smooth deal)",
+   "skip": false
+  },
+  {
+   "i": 255,
+   "s": "00:06:44,245",
+   "e": "00:06:47,048",
+   "t": "",
+   "x": "Now, let's get started grilling the meat",
+   "skip": false
+  },
+  {
+   "i": 256,
+   "s": "00:06:47,048",
+   "e": "00:06:48,349",
+   "t": "",
+   "x": "What should we do first?",
+   "skip": false
+  },
+  {
+   "i": 257,
+   "s": "00:06:48,349",
+   "e": "00:06:49,250",
+   "t": "",
+   "x": "Season it",
+   "skip": false
+  },
+  {
+   "i": 258,
+   "s": "00:06:49,251",
+   "e": "00:06:49,784",
+   "t": "",
+   "x": "Right",
+   "skip": false
+  },
+  {
+   "i": 259,
+   "s": "00:06:49,784",
+   "e": "00:06:52,153",
+   "t": "",
+   "x": "(Steak cooking)\n(1. Salt it well)\nYou need to sprinkle salt evenly from the shaker",
+   "skip": false
+  },
+  {
+   "i": 260,
+   "s": "00:06:52,153",
+   "e": "00:06:54,289",
+   "t": "",
+   "x": "Let it go, let it go",
+   "skip": false
+  },
+  {
+   "i": 261,
+   "s": "00:06:54,289",
+   "e": "00:06:57,325",
+   "t": "",
+   "x": "- That's right, evenly\n- Evenly, evenly, evenly, evenly",
+   "skip": false
+  },
+  {
+   "i": 262,
+   "s": "00:06:57,325",
+   "e": "00:07:00,662",
+   "t": "",
+   "x": "(2. Put it in the broiler)\nWe'll lift it using tongs",
+   "skip": false
+  },
+  {
+   "i": 263,
+   "s": "00:07:00,662",
+   "e": "00:07:01,496",
+   "t": "",
+   "x": "You can hear the sound, right?",
+   "skip": false
+  },
+  {
+   "i": 264,
+   "s": "00:07:01,496",
+   "e": "00:07:03,531",
+   "t": "",
+   "x": "(Sizzling)\nIt's sizzling right now",
+   "skip": false
+  },
+  {
+   "i": 265,
+   "s": "00:07:03,531",
+   "e": "00:07:04,598",
+   "t": "",
+   "x": "Be careful, Asa",
+   "skip": false
+  },
+  {
+   "i": 266,
+   "s": "00:07:04,599",
+   "e": "00:07:05,433",
+   "t": "",
+   "x": "Here I come",
+   "skip": false
+  },
+  {
+   "i": 267,
+   "s": "00:07:05,433",
+   "e": "00:07:06,134",
+   "t": "",
+   "x": "Asa is coming",
+   "skip": false
+  },
+  {
+   "i": 268,
+   "s": "00:07:06,134",
+   "e": "00:07:07,735",
+   "t": "",
+   "x": "You can handle it, Asa",
+   "skip": false
+  },
+  {
+   "i": 269,
+   "s": "00:07:07,735",
+   "e": "00:07:09,804",
+   "t": "",
+   "x": "(Landing with a splash)\nWell done",
+   "skip": false
+  },
+  {
+   "i": 270,
+   "s": "00:07:09,804",
+   "e": "00:07:11,072",
+   "t": "",
+   "x": "So here,",
+   "skip": false
+  },
+  {
+   "i": 271,
+   "s": "00:07:11,074",
+   "e": "00:07:13,875",
+   "t": "",
+   "x": "we'll sear the top and bottom",
+   "skip": false
+  },
+  {
+   "i": 272,
+   "s": "00:07:13,875",
+   "e": "00:07:15,343",
+   "t": "",
+   "x": "One, two, three, sear",
+   "skip": false
+  },
+  {
+   "i": 273,
+   "s": "00:07:15,344",
+   "e": "00:07:17,979",
+   "t": "",
+   "x": "(Steak tribute performance)",
+   "skip": false
+  },
+  {
+   "i": 274,
+   "s": "00:07:17,979",
+   "e": "00:07:19,147",
+   "t": "",
+   "x": "Sear",
+   "skip": false
+  },
+  {
+   "i": 275,
+   "s": "00:07:19,147",
+   "e": "00:07:21,082",
+   "t": "",
+   "x": "Okay, now watch as I take it off",
+   "skip": false
+  },
+  {
+   "i": 276,
+   "s": "00:07:21,082",
+   "e": "00:07:22,683",
+   "t": "",
+   "x": "Ooh, wow",
+   "skip": false
+  },
+  {
+   "i": 277,
+   "s": "00:07:22,684",
+   "e": "00:07:25,052",
+   "t": "",
+   "x": "(Perfectly cooked)\n- That looks absolutely delicious\n- Doesn't it look amazing?",
+   "skip": false
+  },
+  {
+   "i": 278,
+   "s": "00:07:25,052",
+   "e": "00:07:26,154",
+   "t": "",
+   "x": "(Under surveillance)\nCould you flip it over once?",
+   "skip": false
+  },
+  {
+   "i": 279,
+   "s": "00:07:26,154",
+   "e": "00:07:28,489",
+   "t": "",
+   "x": "The top side is just about done now",
+   "skip": false
+  },
+  {
+   "i": 280,
+   "s": "00:07:28,489",
+   "e": "00:07:31,893",
+   "t": "",
+   "x": "So when you get together with your friends,",
+   "skip": false
+  },
+  {
+   "i": 281,
+   "s": "00:07:31,893",
+   "e": "00:07:33,427",
+   "t": "",
+   "x": "who grills the meat?",
+   "skip": false
+  },
+  {
+   "i": 282,
+   "s": "00:07:33,427",
+   "e": "00:07:34,228",
+   "t": "",
+   "x": "That's just part of the job hazard",
+   "skip": false
+  },
+  {
+   "i": 283,
+   "s": "00:07:34,228",
+   "e": "00:07:35,563",
+   "t": "",
+   "x": "I end up grilling every time",
+   "skip": false
+  },
+  {
+   "i": 284,
+   "s": "00:07:35,563",
+   "e": "00:07:37,732",
+   "t": "",
+   "x": "- Oh\n- If my friends grill it,\nit tastes so bad I can't eat it",
+   "skip": false
+  },
+  {
+   "i": 285,
+   "s": "00:07:37,732",
+   "e": "00:07:38,166",
+   "t": "",
+   "x": "Whoa",
+   "skip": false
+  },
+  {
+   "i": 286,
+   "s": "00:07:38,167",
+   "e": "00:07:39,066",
+   "t": "",
+   "x": "(Rapid-fire questions)\nAre you team beef, or team pork?",
+   "skip": false
+  },
+  {
+   "i": 287,
+   "s": "00:07:39,066",
+   "e": "00:07:40,268",
+   "t": "",
+   "x": "Me",
+   "skip": false
+  },
+  {
+   "i": 288,
+   "s": "00:07:40,268",
+   "e": "00:07:41,736",
+   "t": "",
+   "x": "Since I also like to drink,",
+   "skip": false
+  },
+  {
+   "i": 289,
+   "s": "00:07:41,736",
+   "e": "00:07:42,937",
+   "t": "",
+   "x": "(Totally absorbed)\nI usually have",
+   "skip": false
+  },
+  {
+   "i": 290,
+   "s": "00:07:42,937",
+   "e": "00:07:43,838",
+   "t": "",
+   "x": "soju and beer with pork",
+   "skip": false
+  },
+  {
+   "i": 291,
+   "s": "00:07:43,838",
+   "e": "00:07:45,606",
+   "t": "",
+   "x": "(What are you guys doing?)\n- Yeah, right\n- Wow, seriously",
+   "skip": false
+  },
+  {
+   "i": 292,
+   "s": "00:07:45,608",
+   "e": "00:07:47,308",
+   "t": "",
+   "x": "(Startled)",
+   "skip": false
+  },
+  {
+   "i": 293,
+   "s": "00:07:47,308",
+   "e": "00:07:50,344",
+   "t": "",
+   "x": "(End of banter)\nWe need to do this quickly",
+   "skip": false
+  },
+  {
+   "i": 294,
+   "s": "00:07:50,344",
+   "e": "00:07:51,178",
+   "t": "",
+   "x": "(Picking up)\nYaaah!",
+   "skip": false
+  },
+  {
+   "i": 295,
+   "s": "00:07:51,178",
+   "e": "00:07:52,379",
+   "t": "",
+   "x": "So scary, so scary",
+   "skip": false
+  },
+  {
+   "i": 296,
+   "s": "00:07:52,379",
+   "e": "00:07:54,849",
+   "t": "",
+   "x": "Now we're going to do\na second round of trimming",
+   "skip": false
+  },
+  {
+   "i": 297,
+   "s": "00:07:54,850",
+   "e": "00:07:55,549",
+   "t": "",
+   "x": "Whoa",
+   "skip": false
+  },
+  {
+   "i": 298,
+   "s": "00:07:55,552",
+   "e": "00:07:57,418",
+   "t": "",
+   "x": "(Second trimming)\n(T-bone cutting)\nKeep the knife as close to the bone as possible",
+   "skip": false
+  },
+  {
+   "i": 299,
+   "s": "00:07:57,419",
+   "e": "00:07:58,052",
+   "t": "",
+   "x": "Stay close",
+   "skip": false
+  },
+  {
+   "i": 300,
+   "s": "00:07:58,052",
+   "e": "00:08:00,088",
+   "t": "",
+   "x": "(Tenderloin cutting)\nJust divide the tenderloin\ninto three equal pieces",
+   "skip": false
+  },
+  {
+   "i": 301,
+   "s": "00:08:00,088",
+   "e": "00:08:02,223",
+   "t": "",
+   "x": "The key here is uniformity, right?",
+   "skip": false
+  },
+  {
+   "i": 302,
+   "s": "00:08:02,223",
+   "e": "00:08:03,324",
+   "t": "",
+   "x": "(Sirloin cutting)\nI'll do my best",
+   "skip": false
+  },
+  {
+   "i": 303,
+   "s": "00:08:03,324",
+   "e": "00:08:04,993",
+   "t": "",
+   "x": "Yes, just cut them all the same",
+   "skip": false
+  },
+  {
+   "i": 304,
+   "s": "00:08:04,993",
+   "e": "00:08:07,629",
+   "t": "",
+   "x": "(Starting to micromanage)\nExactly the same,\nthey all have to be identical",
+   "skip": false
+  },
+  {
+   "i": 305,
+   "s": "00:08:07,629",
+   "e": "00:08:08,997",
+   "t": "",
+   "x": "Are you sure about that?",
+   "skip": false
+  },
+  {
+   "i": 306,
+   "s": "00:08:08,997",
+   "e": "00:08:10,331",
+   "t": "",
+   "x": "(Zap)\nDid you feel that?",
+   "skip": false
+  },
+  {
+   "i": 307,
+   "s": "00:08:10,331",
+   "e": "00:08:12,734",
+   "t": "",
+   "x": "(Instant Cowering Ending)",
+   "skip": false
+  },
+  {
+   "i": 308,
+   "s": "00:08:12,734",
+   "e": "00:08:15,870",
+   "t": "",
+   "x": "(5:30 PM - Briefing)\nLet’s have a quick meeting\nbefore dinner service",
+   "skip": false
+  },
+  {
+   "i": 309,
+   "s": "00:08:15,870",
+   "e": "00:08:18,006",
+   "t": "",
+   "x": "(Kang Beomjoon)\n(General Manager)\nWe have a lot of dinner reservations today",
+   "skip": false
+  },
+  {
+   "i": 310,
+   "s": "00:08:18,006",
+   "e": "00:08:20,375",
+   "t": "",
+   "x": "(Group precision on point)\nWe have 34 parties",
+   "skip": false
+  },
+  {
+   "i": 311,
+   "s": "00:08:20,375",
+   "e": "00:08:22,043",
+   "t": "",
+   "x": "(Sneaky glance)\nand 118 guests booked",
+   "skip": false
+  },
+  {
+   "i": 312,
+   "s": "00:08:22,043",
+   "e": "00:08:23,144",
+   "t": "",
+   "x": "Asa, let's straighten our backs too",
+   "skip": false
+  },
+  {
+   "i": 313,
+   "s": "00:08:23,144",
+   "e": "00:08:24,646",
+   "t": "",
+   "x": "Tuck in your stomach",
+   "skip": false
+  },
+  {
+   "i": 314,
+   "s": "00:08:24,646",
+   "e": "00:08:26,447",
+   "t": "",
+   "x": "(Important note)\nAnd when we do the sizzling,\nit's really hot",
+   "skip": false
+  },
+  {
+   "i": 315,
+   "s": "00:08:26,447",
+   "e": "00:08:27,982",
+   "t": "",
+   "x": "Please be careful to avoid any accidents",
+   "skip": false
+  },
+  {
+   "i": 316,
+   "s": "00:08:27,983",
+   "e": "00:08:28,750",
+   "t": "",
+   "x": "I have a question",
+   "skip": false
+  },
+  {
+   "i": 317,
+   "s": "00:08:28,750",
+   "e": "00:08:29,651",
+   "t": "",
+   "x": "What's sizzling?",
+   "skip": false
+  },
+  {
+   "i": 318,
+   "s": "00:08:29,651",
+   "e": "00:08:35,924",
+   "t": "",
+   "x": "This is when we bring out\na dry-aged steak on a huge plate.\nIt's extremely hot",
+   "skip": false
+  },
+  {
+   "i": 319,
+   "s": "00:08:35,924",
+   "e": "00:08:38,793",
+   "t": "",
+   "x": "(Warning: extremely hot)\n- Please be careful\n- Understood",
+   "skip": false
+  },
+  {
+   "i": 320,
+   "s": "00:08:38,793",
+   "e": "00:08:42,564",
+   "t": "",
+   "x": "(Q. Challenges of floor serving?)\nWhat would you say is the\nhardest part about working on the floor?",
+   "skip": false
+  },
+  {
+   "i": 321,
+   "s": "00:08:42,564",
+   "e": "00:08:44,732",
+   "t": "",
+   "x": "For younger staff,",
+   "skip": false
+  },
+  {
+   "i": 322,
+   "s": "00:08:44,732",
+   "e": "00:08:45,667",
+   "t": "",
+   "x": "it's often tough",
+   "skip": false
+  },
+  {
+   "i": 323,
+   "s": "00:08:45,667",
+   "e": "00:08:48,503",
+   "t": "",
+   "x": "to make eye contact\nand communicate directly with customers",
+   "skip": false
+  },
+  {
+   "i": 324,
+   "s": "00:08:48,503",
+   "e": "00:08:49,070",
+   "t": "",
+   "x": "Yeah, that's true",
+   "skip": false
+  },
+  {
+   "i": 325,
+   "s": "00:08:49,070",
+   "e": "00:08:49,871",
+   "t": "",
+   "x": "But the more challenging it feels,",
+   "skip": false
+  },
+  {
+   "i": 326,
+   "s": "00:08:49,871",
+   "e": "00:08:51,239",
+   "t": "",
+   "x": "the more you need to make eye contact",
+   "skip": false
+  },
+  {
+   "i": 327,
+   "s": "00:08:51,239",
+   "e": "00:08:53,174",
+   "t": "",
+   "x": "(Staring)\nThat's how you\nreally connect with the customers",
+   "skip": false
+  },
+  {
+   "i": 328,
+   "s": "00:08:53,174",
+   "e": "00:08:55,009",
+   "t": "",
+   "x": "Is it okay for her to be this forward?",
+   "skip": false
+  },
+  {
+   "i": 329,
+   "s": "00:08:55,009",
+   "e": "00:08:56,444",
+   "t": "",
+   "x": "- That startled me\n- Are we doing all right?",
+   "skip": false
+  },
+  {
+   "i": 330,
+   "s": "00:08:56,445",
+   "e": "00:08:57,845",
+   "t": "",
+   "x": "Are you comfortable?",
+   "skip": false
+  },
+  {
+   "i": 331,
+   "s": "00:08:57,845",
+   "e": "00:08:59,080",
+   "t": "",
+   "x": "Is there anything you need?",
+   "skip": false
+  },
+  {
+   "i": 332,
+   "s": "00:08:59,080",
+   "e": "00:09:00,882",
+   "t": "",
+   "x": "What can we get for you?",
+   "skip": false
+  },
+  {
+   "i": 333,
+   "s": "00:09:00,882",
+   "e": "00:09:02,750",
+   "t": "",
+   "x": "(Sweating)\nWould you like some water?",
+   "skip": false
+  },
+  {
+   "i": 334,
+   "s": "00:09:02,750",
+   "e": "00:09:03,918",
+   "t": "",
+   "x": "You're overbearing",
+   "skip": false
+  },
+  {
+   "i": 335,
+   "s": "00:09:03,918",
+   "e": "00:09:04,852",
+   "t": "",
+   "x": "Okay",
+   "skip": false
+  },
+  {
+   "i": 336,
+   "s": "00:09:04,856",
+   "e": "00:09:06,320",
+   "t": "",
+   "x": "I'll make sure you're comfortable and warm",
+   "skip": false
+  },
+  {
+   "i": 337,
+   "s": "00:09:06,320",
+   "e": "00:09:08,556",
+   "t": "",
+   "x": "(Already worried)\nThank you so much",
+   "skip": false
+  },
+  {
+   "i": 338,
+   "s": "00:09:08,556",
+   "e": "00:09:11,892",
+   "t": "",
+   "x": "(Getting to work)\nCustomers have just arrived,\nso I'll go take their orders with you",
+   "skip": false
+  },
+  {
+   "i": 339,
+   "s": "00:09:11,892",
+   "e": "00:09:13,661",
+   "t": "",
+   "x": "(Park Nayei)\n(5 months)",
+   "skip": false
+  },
+  {
+   "i": 340,
+   "s": "00:09:13,661",
+   "e": "00:09:14,261",
+   "t": "",
+   "x": "Alright",
+   "skip": false
+  },
+  {
+   "i": 341,
+   "s": "00:09:14,261",
+   "e": "00:09:14,895",
+   "t": "",
+   "x": "Come this way",
+   "skip": false
+  },
+  {
+   "i": 342,
+   "s": "00:09:14,895",
+   "e": "00:09:16,530",
+   "t": "",
+   "x": "Do you ever get any complaints?",
+   "skip": false
+  },
+  {
+   "i": 343,
+   "s": "00:09:16,530",
+   "e": "00:09:18,098",
+   "t": "",
+   "x": "(Worried)\nIt really depends on how you handle it",
+   "skip": false
+  },
+  {
+   "i": 344,
+   "s": "00:09:18,098",
+   "e": "00:09:19,099",
+   "t": "",
+   "x": "Oh wow,\nyou really have to be on top of your game",
+   "skip": false
+  },
+  {
+   "i": 345,
+   "s": "00:09:19,100",
+   "e": "00:09:21,035",
+   "t": "",
+   "x": "(Person to watch out for)",
+   "skip": false
+  },
+  {
+   "i": 346,
+   "s": "00:09:21,035",
+   "e": "00:09:22,236",
+   "t": "",
+   "x": "Excuse me",
+   "skip": false
+  },
+  {
+   "i": 347,
+   "s": "00:09:22,236",
+   "e": "00:09:22,803",
+   "t": "",
+   "x": "Yes",
+   "skip": false
+  },
+  {
+   "i": 348,
+   "s": "00:09:22,803",
+   "e": "00:09:23,771",
+   "t": "",
+   "x": "For today’s main,",
+   "skip": false
+  },
+  {
+   "i": 349,
+   "s": "00:09:23,771",
+   "e": "00:09:24,838",
+   "t": "",
+   "x": "we’ll be serving",
+   "skip": false
+  },
+  {
+   "i": 350,
+   "s": "00:09:24,839",
+   "e": "00:09:26,740",
+   "t": "",
+   "x": "a porterhouse steak",
+   "skip": false
+  },
+  {
+   "i": 351,
+   "s": "00:09:26,740",
+   "e": "00:09:29,109",
+   "t": "",
+   "x": "How would you like your steak cooked?",
+   "skip": false
+  },
+  {
+   "i": 352,
+   "s": "00:09:29,109",
+   "e": "00:09:30,377",
+   "t": "",
+   "x": "Do you have a recommendation?",
+   "skip": false
+  },
+  {
+   "i": 353,
+   "s": "00:09:30,377",
+   "e": "00:09:31,745",
+   "t": "",
+   "x": "Medium rare to medium",
+   "skip": false
+  },
+  {
+   "i": 354,
+   "s": "00:09:31,745",
+   "e": "00:09:32,846",
+   "t": "",
+   "x": "(Gathering answers)\nMedium rare",
+   "skip": false
+  },
+  {
+   "i": 355,
+   "s": "00:09:32,847",
+   "e": "00:09:34,281",
+   "t": "",
+   "x": "We also tend to recommend medium rare",
+   "skip": false
+  },
+  {
+   "i": 356,
+   "s": "00:09:34,281",
+   "e": "00:09:36,350",
+   "t": "",
+   "x": "(Playful)",
+   "skip": false
+  },
+  {
+   "i": 357,
+   "s": "00:09:36,350",
+   "e": "00:09:38,886",
+   "t": "",
+   "x": "(Better run before I mess up)\nI'll make sure everything's perfect for you",
+   "skip": false
+  },
+  {
+   "i": 358,
+   "s": "00:09:38,886",
+   "e": "00:09:41,288",
+   "t": "",
+   "x": "(Looking confused)\nSo, where are we headed now?",
+   "skip": false
+  },
+  {
+   "i": 359,
+   "s": "00:09:41,288",
+   "e": "00:09:42,222",
+   "t": "",
+   "x": "Please come this way",
+   "skip": false
+  },
+  {
+   "i": 360,
+   "s": "00:09:42,222",
+   "e": "00:09:45,092",
+   "t": "",
+   "x": "(Fresh bread served right away)\n- Trust me, I'm really good at this\n- Watch closely",
+   "skip": false
+  },
+  {
+   "i": 361,
+   "s": "00:09:48,596",
+   "e": "00:09:49,297",
+   "t": "",
+   "x": "Oh, wow",
+   "skip": false
+  },
+  {
+   "i": 362,
+   "s": "00:09:49,730",
+   "e": "00:09:52,733",
+   "t": "",
+   "x": "(Looks like this could take all day...)",
+   "skip": false
+  },
+  {
+   "i": 363,
+   "s": "00:09:52,733",
+   "e": "00:09:53,767",
+   "t": "",
+   "x": "This is really hard to cut",
+   "skip": false
+  },
+  {
+   "i": 364,
+   "s": "00:09:53,767",
+   "e": "00:09:55,402",
+   "t": "",
+   "x": "It just won't cut properly",
+   "skip": false
+  },
+  {
+   "i": 365,
+   "s": "00:09:55,402",
+   "e": "00:09:57,504",
+   "t": "",
+   "x": "Maybe if I try a little more...",
+   "skip": false
+  },
+  {
+   "i": 366,
+   "s": "00:09:57,505",
+   "e": "00:09:58,372",
+   "t": "",
+   "x": "(GG)\nOh, Rora",
+   "skip": false
+  },
+  {
+   "i": 367,
+   "s": "00:09:58,375",
+   "e": "00:09:59,007",
+   "t": "",
+   "x": "Oh my",
+   "skip": false
+  },
+  {
+   "i": 368,
+   "s": "00:09:59,008",
+   "e": "00:10:00,341",
+   "t": "",
+   "x": "She only managed to cut two pieces",
+   "skip": false
+  },
+  {
+   "i": 369,
+   "s": "00:10:00,341",
+   "e": "00:10:01,709",
+   "t": "",
+   "x": "Rora, please help me out",
+   "skip": false
+  },
+  {
+   "i": 370,
+   "s": "00:10:03,477",
+   "e": "00:10:05,079",
+   "t": "",
+   "x": "(Snips right through)",
+   "skip": false
+  },
+  {
+   "i": 371,
+   "s": "00:10:05,079",
+   "e": "00:10:05,846",
+   "t": "",
+   "x": "Oh my",
+   "skip": false
+  },
+  {
+   "i": 372,
+   "s": "00:10:05,846",
+   "e": "00:10:06,246",
+   "t": "",
+   "x": "See?",
+   "skip": false
+  },
+  {
+   "i": 373,
+   "s": "00:10:06,246",
+   "e": "00:10:07,581",
+   "t": "",
+   "x": "Oh my",
+   "skip": false
+  },
+  {
+   "i": 374,
+   "s": "00:10:07,581",
+   "e": "00:10:08,949",
+   "t": "",
+   "x": "(Retry)",
+   "skip": false
+  },
+  {
+   "i": 375,
+   "s": "00:10:08,949",
+   "e": "00:10:12,186",
+   "t": "",
+   "x": "(My whole body is shaking)",
+   "skip": false
+  },
+  {
+   "i": 376,
+   "s": "00:10:12,186",
+   "e": "00:10:13,053",
+   "t": "",
+   "x": "What do you think?",
+   "skip": false
+  },
+  {
+   "i": 377,
+   "s": "00:10:13,053",
+   "e": "00:10:15,089",
+   "t": "",
+   "x": "Where do you think\nsomeone like that would fit in?",
+   "skip": false
+  },
+  {
+   "i": 378,
+   "s": "00:10:15,091",
+   "e": "00:10:16,991",
+   "t": "",
+   "x": "A bar? Maybe serving or in the kitchen?",
+   "skip": false
+  },
+  {
+   "i": 379,
+   "s": "00:10:16,991",
+   "e": "00:10:18,459",
+   "t": "",
+   "x": "If she keeps working hard",
+   "skip": false
+  },
+  {
+   "i": 380,
+   "s": "00:10:18,459",
+   "e": "00:10:19,994",
+   "t": "",
+   "x": "If she keeps working hard",
+   "skip": false
+  },
+  {
+   "i": 381,
+   "s": "00:10:19,994",
+   "e": "00:10:21,362",
+   "t": "",
+   "x": "When does it get cut?",
+   "skip": false
+  },
+  {
+   "i": 382,
+   "s": "00:10:21,362",
+   "e": "00:10:23,564",
+   "t": "",
+   "x": "(It's faster to cut this one)\nCome on, come on",
+   "skip": false
+  },
+  {
+   "i": 383,
+   "s": "00:10:23,564",
+   "e": "00:10:24,698",
+   "t": "",
+   "x": "(Finally escaped)\nHello, everyone",
+   "skip": false
+  },
+  {
+   "i": 384,
+   "s": "00:10:24,698",
+   "e": "00:10:27,434",
+   "t": "",
+   "x": "Here is your bread appetizer\nto start the meal",
+   "skip": false
+  },
+  {
+   "i": 385,
+   "s": "00:10:27,434",
+   "e": "00:10:29,069",
+   "t": "",
+   "x": "Now, please tell us about the bread",
+   "skip": false
+  },
+  {
+   "i": 386,
+   "s": "00:10:29,971",
+   "e": "00:10:31,272",
+   "t": "",
+   "x": "Baguette",
+   "skip": false
+  },
+  {
+   "i": 387,
+   "s": "00:10:31,272",
+   "e": "00:10:32,073",
+   "t": "",
+   "x": "Baguette",
+   "skip": false
+  },
+  {
+   "i": 388,
+   "s": "00:10:32,073",
+   "e": "00:10:33,374",
+   "t": "",
+   "x": "and",
+   "skip": false
+  },
+  {
+   "i": 389,
+   "s": "00:10:33,374",
+   "e": "00:10:35,977",
+   "t": "",
+   "x": "(Malfunction)",
+   "skip": false
+  },
+  {
+   "i": 390,
+   "s": "00:10:35,977",
+   "e": "00:10:38,112",
+   "t": "",
+   "x": "(Changing the subject)\nDo you come here often?",
+   "skip": false
+  },
+  {
+   "i": 391,
+   "s": "00:10:38,112",
+   "e": "00:10:39,280",
+   "t": "",
+   "x": "Or is this your first time visiting?",
+   "skip": false
+  },
+  {
+   "i": 392,
+   "s": "00:10:39,280",
+   "e": "00:10:41,749",
+   "t": "",
+   "x": "(Here for their anniversary)\nWe had something to celebrate",
+   "skip": false
+  },
+  {
+   "i": 393,
+   "s": "00:10:41,749",
+   "e": "00:10:44,519",
+   "t": "",
+   "x": "Could you tell us how you two met?",
+   "skip": false
+  },
+  {
+   "i": 394,
+   "s": "00:10:44,519",
+   "e": "00:10:46,454",
+   "t": "",
+   "x": "(Excited anticipation)\nUs?",
+   "skip": false
+  },
+  {
+   "i": 395,
+   "s": "00:10:46,454",
+   "e": "00:10:48,523",
+   "t": "",
+   "x": "We met at a book club",
+   "skip": false
+  },
+  {
+   "i": 396,
+   "s": "00:10:48,523",
+   "e": "00:10:50,058",
+   "t": "",
+   "x": "(So wholesome…)",
+   "skip": false
+  },
+  {
+   "i": 397,
+   "s": "00:10:50,058",
+   "e": "00:10:51,659",
+   "t": "",
+   "x": "But we actually got close over drinks",
+   "skip": false
+  },
+  {
+   "i": 398,
+   "s": "00:10:51,659",
+   "e": "00:10:54,229",
+   "t": "",
+   "x": "(A sudden twist)\nThis story is moving fast",
+   "skip": false
+  },
+  {
+   "i": 399,
+   "s": "00:10:54,229",
+   "e": "00:10:55,396",
+   "t": "",
+   "x": "(Now I'm curious)\nDo you have a boyfriend?",
+   "skip": false
+  },
+  {
+   "i": 400,
+   "s": "00:10:56,297",
+   "e": "00:10:56,898",
+   "t": "",
+   "x": "No, I don't",
+   "skip": false
+  },
+  {
+   "i": 401,
+   "s": "00:10:56,898",
+   "e": "00:10:57,465",
+   "t": "",
+   "x": "Oh my gosh",
+   "skip": false
+  },
+  {
+   "i": 402,
+   "s": "00:10:57,465",
+   "e": "00:11:00,801",
+   "t": "",
+   "x": "(Such a wild turn)\nYou can't ask us questions like that,\nthat's dangerous",
+   "skip": false
+  },
+  {
+   "i": 403,
+   "s": "00:11:00,801",
+   "e": "00:11:02,270",
+   "t": "",
+   "x": "Now, our VIP client is",
+   "skip": false
+  },
+  {
+   "i": 404,
+   "s": "00:11:02,270",
+   "e": "00:11:04,939",
+   "t": "",
+   "x": "waiting for us outside",
+   "skip": false
+  },
+  {
+   "i": 405,
+   "s": "00:11:04,939",
+   "e": "00:11:07,608",
+   "t": "",
+   "x": "(VIP suite escort)\n- We'll personally take them to their room\n- Understood",
+   "skip": false
+  },
+  {
+   "i": 406,
+   "s": "00:11:07,608",
+   "e": "00:11:08,142",
+   "t": "",
+   "x": "Hang on",
+   "skip": false
+  },
+  {
+   "i": 407,
+   "s": "00:11:08,142",
+   "e": "00:11:09,610",
+   "t": "",
+   "x": "a second",
+   "skip": false
+  },
+  {
+   "i": 408,
+   "s": "00:11:12,146",
+   "e": "00:11:13,948",
+   "t": "",
+   "x": "(Can we go now...?)\n- Okay, let's go\n- Let's go",
+   "skip": false
+  },
+  {
+   "i": 409,
+   "s": "00:11:13,948",
+   "e": "00:11:14,582",
+   "t": "",
+   "x": "Hello",
+   "skip": false
+  },
+  {
+   "i": 410,
+   "s": "00:11:14,582",
+   "e": "00:11:15,816",
+   "t": "",
+   "x": "Hello",
+   "skip": false
+  },
+  {
+   "i": 411,
+   "s": "00:11:15,816",
+   "e": "00:11:17,184",
+   "t": "",
+   "x": "Welcome",
+   "skip": false
+  },
+  {
+   "i": 412,
+   "s": "00:11:17,184",
+   "e": "00:11:18,986",
+   "t": "",
+   "x": "(Surprised by Babymonster)\nWow",
+   "skip": false
+  },
+  {
+   "i": 413,
+   "s": "00:11:18,986",
+   "e": "00:11:19,920",
+   "t": "",
+   "x": "Japanese?",
+   "skip": false
+  },
+  {
+   "i": 414,
+   "s": "00:11:19,920",
+   "e": "00:11:20,820",
+   "t": "",
+   "x": "We're Japanese",
+   "skip": false
+  },
+  {
+   "i": 415,
+   "s": "00:11:20,821",
+   "e": "00:11:22,456",
+   "t": "",
+   "x": "Ah",
+   "skip": false
+  },
+  {
+   "i": 416,
+   "s": "00:11:22,456",
+   "e": "00:11:24,391",
+   "t": "",
+   "x": "(Feeling more confident\nin her native language)",
+   "skip": false
+  },
+  {
+   "i": 417,
+   "s": "00:11:24,391",
+   "e": "00:11:27,027",
+   "t": "",
+   "x": "Let me show you to your room",
+   "skip": false
+  },
+  {
+   "i": 418,
+   "s": "00:11:27,027",
+   "e": "00:11:28,128",
+   "t": "",
+   "x": "Please come this way",
+   "skip": false
+  },
+  {
+   "i": 419,
+   "s": "00:11:28,130",
+   "e": "00:11:30,197",
+   "t": "",
+   "x": "(Entering the private room)",
+   "skip": false
+  },
+  {
+   "i": 420,
+   "s": "00:11:30,197",
+   "e": "00:11:32,600",
+   "t": "",
+   "x": "Since my Japanese isn't very good,",
+   "skip": false
+  },
+  {
+   "i": 421,
+   "s": "00:11:32,601",
+   "e": "00:11:33,534",
+   "t": "",
+   "x": "I'll need your help with interpreting",
+   "skip": false
+  },
+  {
+   "i": 422,
+   "s": "00:11:33,534",
+   "e": "00:11:34,401",
+   "t": "",
+   "x": "(Becomes the interpreter)\nLet's go",
+   "skip": false
+  },
+  {
+   "i": 423,
+   "s": "00:11:34,401",
+   "e": "00:11:35,436",
+   "t": "",
+   "x": "Alright",
+   "skip": false
+  },
+  {
+   "i": 424,
+   "s": "00:11:35,436",
+   "e": "00:11:38,572",
+   "t": "",
+   "x": "The food for your meal is",
+   "skip": false
+  },
+  {
+   "i": 425,
+   "s": "00:11:38,572",
+   "e": "00:11:40,507",
+   "t": "",
+   "x": "Everyone, hi",
+   "skip": false
+  },
+  {
+   "i": 426,
+   "s": "00:11:40,507",
+   "e": "00:11:41,442",
+   "t": "",
+   "x": "(Error)",
+   "skip": false
+  },
+  {
+   "i": 427,
+   "s": "00:11:41,442",
+   "e": "00:11:43,010",
+   "t": "",
+   "x": "Just a moment",
+   "skip": false
+  },
+  {
+   "i": 428,
+   "s": "00:11:43,010",
+   "e": "00:11:45,679",
+   "t": "",
+   "x": "(Native language buffering)",
+   "skip": false
+  },
+  {
+   "i": 429,
+   "s": "00:11:45,679",
+   "e": "00:11:47,414",
+   "t": "",
+   "x": "How would you like your steak cooked?",
+   "skip": false
+  },
+  {
+   "i": 430,
+   "s": "00:11:47,414",
+   "e": "00:11:48,649",
+   "t": "",
+   "x": "(Second challenge)\nSteak",
+   "skip": false
+  },
+  {
+   "i": 431,
+   "s": "00:11:48,650",
+   "e": "00:11:49,783",
+   "t": "",
+   "x": "Medium rare",
+   "skip": false
+  },
+  {
+   "i": 432,
+   "s": "00:11:49,783",
+   "e": "00:11:50,918",
+   "t": "",
+   "x": "It's medium rare",
+   "skip": false
+  },
+  {
+   "i": 433,
+   "s": "00:11:50,918",
+   "e": "00:11:53,087",
+   "t": "",
+   "x": "(What is this?)\nDo you speak Korean?",
+   "skip": false
+  },
+  {
+   "i": 434,
+   "s": "00:11:53,087",
+   "e": "00:11:54,288",
+   "t": "",
+   "x": "Hi",
+   "skip": false
+  },
+  {
+   "i": 435,
+   "s": "00:11:54,288",
+   "e": "00:11:54,955",
+   "t": "",
+   "x": "A little bit",
+   "skip": false
+  },
+  {
+   "i": 436,
+   "s": "00:11:54,955",
+   "e": "00:11:56,357",
+   "t": "",
+   "x": "(Turns out they're foreign students, lol)",
+   "skip": false
+  },
+  {
+   "i": 437,
+   "s": "00:11:56,358",
+   "e": "00:11:58,359",
+   "t": "",
+   "x": "(Why use an interpreter?)\nWhat? Can you speak Korean?",
+   "skip": false
+  },
+  {
+   "i": 438,
+   "s": "00:11:58,359",
+   "e": "00:12:02,396",
+   "t": "",
+   "x": "(Serving the steak right away)\nNow, let's go get our main steak",
+   "skip": false
+  },
+  {
+   "i": 439,
+   "s": "00:12:02,396",
+   "e": "00:12:04,465",
+   "t": "",
+   "x": "When we make a request to the kitchen,",
+   "skip": false
+  },
+  {
+   "i": 440,
+   "s": "00:12:04,466",
+   "e": "00:12:07,835",
+   "t": "",
+   "x": "we say, \"Is a via possible for table 31?\"",
+   "skip": false
+  },
+  {
+   "i": 441,
+   "s": "00:12:07,835",
+   "e": "00:12:09,203",
+   "t": "",
+   "x": "What's a via?",
+   "skip": false
+  },
+  {
+   "i": 442,
+   "s": "00:12:09,203",
+   "e": "00:12:09,903",
+   "t": "",
+   "x": "It means, \"Let's go\"",
+   "skip": false
+  },
+  {
+   "i": 443,
+   "s": "00:12:09,903",
+   "e": "00:12:11,805",
+   "t": "",
+   "x": "Let's go",
+   "skip": false
+  },
+  {
+   "i": 444,
+   "s": "00:12:11,805",
+   "e": "00:12:14,541",
+   "t": "",
+   "x": "(Loudly)\nCan we get a via at table 31?",
+   "skip": false
+  },
+  {
+   "i": 445,
+   "s": "00:12:14,541",
+   "e": "00:12:15,309",
+   "t": "",
+   "x": "Via",
+   "skip": false
+  },
+  {
+   "i": 446,
+   "s": "00:12:15,309",
+   "e": "00:12:16,143",
+   "t": "",
+   "x": "Via",
+   "skip": false
+  },
+  {
+   "i": 447,
+   "s": "00:12:16,143",
+   "e": "00:12:19,513",
+   "t": "",
+   "x": "(This is such a rush...!)",
+   "skip": false
+  },
+  {
+   "i": 448,
+   "s": "00:12:19,513",
+   "e": "00:12:22,483",
+   "t": "",
+   "x": "(Waiting)\nDo you get a lot of\ntroublesome customers here?",
+   "skip": false
+  },
+  {
+   "i": 449,
+   "s": "00:12:22,483",
+   "e": "00:12:23,984",
+   "t": "",
+   "x": "Back when I used to work here,",
+   "skip": false
+  },
+  {
+   "i": 450,
+   "s": "00:12:23,984",
+   "e": "00:12:26,553",
+   "t": "",
+   "x": "I was cleaning up tables",
+   "skip": false
+  },
+  {
+   "i": 451,
+   "s": "00:12:26,553",
+   "e": "00:12:27,888",
+   "t": "",
+   "x": "and someone",
+   "skip": false
+  },
+  {
+   "i": 452,
+   "s": "00:12:27,888",
+   "e": "00:12:29,890",
+   "t": "",
+   "x": "threw their trash right at me like this",
+   "skip": false
+  },
+  {
+   "i": 453,
+   "s": "00:12:29,890",
+   "e": "00:12:32,426",
+   "t": "",
+   "x": "(Getting caught up in drama while working hard)\n- That time, I felt\n- A bit hurt",
+   "skip": false
+  },
+  {
+   "i": 454,
+   "s": "00:12:32,426",
+   "e": "00:12:33,994",
+   "t": "",
+   "x": "That was just plain rude",
+   "skip": false
+  },
+  {
+   "i": 455,
+   "s": "00:12:33,994",
+   "e": "00:12:36,530",
+   "t": "",
+   "x": "(Ready to go full battle mode)",
+   "skip": false
+  },
+  {
+   "i": 456,
+   "s": "00:12:36,530",
+   "e": "00:12:38,666",
+   "t": "",
+   "x": "(The steak is ready)\nMain course coming through",
+   "skip": false
+  },
+  {
+   "i": 457,
+   "s": "00:12:38,666",
+   "e": "00:12:39,433",
+   "t": "",
+   "x": "(Security mode)\nMain course coming through",
+   "skip": false
+  },
+  {
+   "i": 458,
+   "s": "00:12:39,433",
+   "e": "00:12:40,968",
+   "t": "",
+   "x": "- Careful,\n- Everyone, be careful",
+   "skip": false
+  },
+  {
+   "i": 459,
+   "s": "00:12:40,968",
+   "e": "00:12:42,102",
+   "t": "",
+   "x": "Wow, that steak looks amazing",
+   "skip": false
+  },
+  {
+   "i": 460,
+   "s": "00:12:42,102",
+   "e": "00:12:43,904",
+   "t": "",
+   "x": "Oh, that looks delicious",
+   "skip": false
+  },
+  {
+   "i": 461,
+   "s": "00:12:43,904",
+   "e": "00:12:45,839",
+   "t": "",
+   "x": "Steak coming through",
+   "skip": false
+  },
+  {
+   "i": 462,
+   "s": "00:12:45,840",
+   "e": "00:12:46,340",
+   "t": "",
+   "x": "Precious",
+   "skip": false
+  },
+  {
+   "i": 463,
+   "s": "00:12:46,340",
+   "e": "00:12:47,508",
+   "t": "",
+   "x": "Coming through, here comes your dish",
+   "skip": false
+  },
+  {
+   "i": 464,
+   "s": "00:12:47,508",
+   "e": "00:12:48,442",
+   "t": "",
+   "x": "Watch your step",
+   "skip": false
+  },
+  {
+   "i": 465,
+   "s": "00:12:48,442",
+   "e": "00:12:51,345",
+   "t": "",
+   "x": "(It looks seriously hot)\n- It's really hot\n- It's really hot",
+   "skip": false
+  },
+  {
+   "i": 466,
+   "s": "00:12:51,345",
+   "e": "00:12:53,981",
+   "t": "",
+   "x": "It's really hot, twice",
+   "skip": false
+  },
+  {
+   "i": 467,
+   "s": "00:12:53,981",
+   "e": "00:12:56,083",
+   "t": "",
+   "x": "Please be careful, it's hot",
+   "skip": false
+  },
+  {
+   "i": 468,
+   "s": "00:12:56,083",
+   "e": "00:12:58,886",
+   "t": "",
+   "x": "(Lands safely)",
+   "skip": false
+  },
+  {
+   "i": 469,
+   "s": "00:12:58,886",
+   "e": "00:13:00,721",
+   "t": "",
+   "x": "I'll bring it to the side",
+   "skip": false
+  },
+  {
+   "i": 470,
+   "s": "00:13:00,721",
+   "e": "00:13:02,589",
+   "t": "",
+   "x": "(Most skilled so far today)\nThis is stir-fried kimchi",
+   "skip": false
+  },
+  {
+   "i": 471,
+   "s": "00:13:02,590",
+   "e": "00:13:04,358",
+   "t": "",
+   "x": "Mashed potatoes",
+   "skip": false
+  },
+  {
+   "i": 472,
+   "s": "00:13:05,993",
+   "e": "00:13:06,760",
+   "t": "",
+   "x": "Yoon Jaehyuk sunbae?",
+   "skip": false
+  },
+  {
+   "i": 473,
+   "s": "00:13:06,761",
+   "e": "00:13:07,995",
+   "t": "",
+   "x": "Huge success",
+   "skip": false
+  },
+  {
+   "i": 474,
+   "s": "00:13:08,000",
+   "e": "00:13:09,563",
+   "t": "",
+   "x": "(Senior from the same agency\nTREASURE’s Jaehyuk spotted)",
+   "skip": false
+  },
+  {
+   "i": 475,
+   "s": "00:13:09,563",
+   "e": "00:13:11,732",
+   "t": "",
+   "x": "(Can’t let them win)\nWe’ve got to show off as MONSTIEZ too",
+   "skip": false
+  },
+  {
+   "i": 476,
+   "s": "00:13:11,733",
+   "e": "00:13:12,866",
+   "t": "",
+   "x": "Show off, show off",
+   "skip": false
+  },
+  {
+   "i": 477,
+   "s": "00:13:12,867",
+   "e": "00:13:15,035",
+   "t": "",
+   "x": "(The girls we want to steal)\nSteal them",
+   "skip": false
+  },
+  {
+   "i": 478,
+   "s": "00:13:15,035",
+   "e": "00:13:17,938",
+   "t": "",
+   "x": "We go up like whoa,\nwe’re the villains, villains",
+   "skip": false
+  },
+  {
+   "i": 479,
+   "s": "00:13:17,939",
+   "e": "00:13:19,039",
+   "t": "",
+   "x": "Up high for me, baby",
+   "skip": false
+  },
+  {
+   "i": 480,
+   "s": "00:13:19,039",
+   "e": "00:13:20,874",
+   "t": "",
+   "x": "(Watching the new song live)",
+   "skip": false
+  },
+  {
+   "i": 481,
+   "s": "00:13:20,876",
+   "e": "00:13:24,044",
+   "t": "",
+   "x": "This is how we do it, we go oh",
+   "skip": false
+  },
+  {
+   "i": 482,
+   "s": "00:13:24,044",
+   "e": "00:13:26,647",
+   "t": "",
+   "x": "(Totally knocked over)",
+   "skip": false
+  },
+  {
+   "i": 483,
+   "s": "00:13:26,647",
+   "e": "00:13:29,783",
+   "t": "",
+   "x": "(They keep serving steaks)\n- Here comes the main dish\n- Main dish coming up",
+   "skip": false
+  },
+  {
+   "i": 484,
+   "s": "00:13:29,783",
+   "e": "00:13:30,250",
+   "t": "",
+   "x": "Main dish coming up",
+   "skip": false
+  },
+  {
+   "i": 485,
+   "s": "00:13:30,250",
+   "e": "00:13:30,717",
+   "t": "",
+   "x": "Watch out, everyone",
+   "skip": false
+  },
+  {
+   "i": 486,
+   "s": "00:13:30,717",
+   "e": "00:13:32,085",
+   "t": "",
+   "x": "Watch your step",
+   "skip": false
+  },
+  {
+   "i": 487,
+   "s": "00:13:32,086",
+   "e": "00:13:33,754",
+   "t": "",
+   "x": "Alright, it's hot, hot, so hot!",
+   "skip": false
+  },
+  {
+   "i": 488,
+   "s": "00:13:33,754",
+   "e": "00:13:34,755",
+   "t": "",
+   "x": "So hot, so hot!",
+   "skip": false
+  },
+  {
+   "i": 489,
+   "s": "00:13:34,756",
+   "e": "00:13:35,389",
+   "t": "",
+   "x": "Hurry, hurry, hurry!",
+   "skip": false
+  },
+  {
+   "i": 490,
+   "s": "00:13:35,389",
+   "e": "00:13:36,924",
+   "t": "",
+   "x": "Quick, before it cools down!",
+   "skip": false
+  },
+  {
+   "i": 491,
+   "s": "00:13:36,924",
+   "e": "00:13:38,525",
+   "t": "",
+   "x": "Excuse me.",
+   "skip": false
+  },
+  {
+   "i": 492,
+   "s": "00:13:38,525",
+   "e": "00:13:40,761",
+   "t": "",
+   "x": "I'll bring your steak right out",
+   "skip": false
+  },
+  {
+   "i": 493,
+   "s": "00:13:40,761",
+   "e": "00:13:43,730",
+   "t": "",
+   "x": "(Steak under maximum protection)\nYour steak has arrived",
+   "skip": false
+  },
+  {
+   "i": 494,
+   "s": "00:13:43,731",
+   "e": "00:13:45,632",
+   "t": "",
+   "x": "(Serving the next table)\nCareful, it's hot",
+   "skip": false
+  },
+  {
+   "i": 495,
+   "s": "00:13:45,632",
+   "e": "00:13:47,935",
+   "t": "",
+   "x": "(Moving with exaggerated caution)\nPlease be careful, please be careful",
+   "skip": false
+  },
+  {
+   "i": 496,
+   "s": "00:13:47,935",
+   "e": "00:13:49,169",
+   "t": "",
+   "x": "Excuse me",
+   "skip": false
+  },
+  {
+   "i": 497,
+   "s": "00:13:49,169",
+   "e": "00:13:50,170",
+   "t": "",
+   "x": "Please be careful, just a moment",
+   "skip": false
+  },
+  {
+   "i": 498,
+   "s": "00:13:50,171",
+   "e": "00:13:52,072",
+   "t": "",
+   "x": "It's hot, so watch out",
+   "skip": false
+  },
+  {
+   "i": 499,
+   "s": "00:13:52,072",
+   "e": "00:13:55,209",
+   "t": "",
+   "x": "(Appeal)\nThis is the steak we've\ncarefully prepared and cut for you,",
+   "skip": false
+  },
+  {
+   "i": 500,
+   "s": "00:13:55,209",
+   "e": "00:13:56,944",
+   "t": "",
+   "x": "so you can enjoy it with tender heart",
+   "skip": false
+  },
+  {
+   "i": 501,
+   "s": "00:13:56,944",
+   "e": "00:13:59,580",
+   "t": "",
+   "x": "(Awkward silence as the meat gets cold)\n- Thank you\n- Enjoy your meal",
+   "skip": false
+  },
+  {
+   "i": 502,
+   "s": "00:13:59,580",
+   "e": "00:14:02,049",
+   "t": "",
+   "x": "(Greeting)\nIs everything going well with your meal?",
+   "skip": false
+  },
+  {
+   "i": 503,
+   "s": "00:14:02,049",
+   "e": "00:14:02,416",
+   "t": "",
+   "x": "Yes.",
+   "skip": false
+  },
+  {
+   "i": 504,
+   "s": "00:14:02,416",
+   "e": "00:14:03,550",
+   "t": "",
+   "x": "(Greeting 22)\nAre you enjoying your meal?",
+   "skip": false
+  },
+  {
+   "i": 505,
+   "s": "00:14:03,550",
+   "e": "00:14:04,251",
+   "t": "",
+   "x": "Oh, yes",
+   "skip": false
+  },
+  {
+   "i": 506,
+   "s": "00:14:04,251",
+   "e": "00:14:05,586",
+   "t": "",
+   "x": "It's absolutely delicious",
+   "skip": false
+  },
+  {
+   "i": 507,
+   "s": "00:14:05,586",
+   "e": "00:14:08,655",
+   "t": "",
+   "x": "May I ask what your relationship is?",
+   "skip": false
+  },
+  {
+   "i": 508,
+   "s": "00:14:08,655",
+   "e": "00:14:09,990",
+   "t": "",
+   "x": "We're a couple",
+   "skip": false
+  },
+  {
+   "i": 509,
+   "s": "00:14:09,990",
+   "e": "00:14:10,757",
+   "t": "",
+   "x": "Wow!",
+   "skip": false
+  },
+  {
+   "i": 510,
+   "s": "00:14:10,757",
+   "e": "00:14:11,959",
+   "t": "",
+   "x": "We're getting married next week",
+   "skip": false
+  },
+  {
+   "i": 511,
+   "s": "00:14:11,959",
+   "e": "00:14:12,659",
+   "t": "",
+   "x": "Oh my",
+   "skip": false
+  },
+  {
+   "i": 512,
+   "s": "00:14:12,659",
+   "e": "00:14:15,229",
+   "t": "",
+   "x": "(Found my favorite spot)",
+   "skip": false
+  },
+  {
+   "i": 513,
+   "s": "00:14:15,230",
+   "e": "00:14:18,332",
+   "t": "",
+   "x": "(Q. Girlfriend's best features)\nThree attractive features of your girlfriend",
+   "skip": false
+  },
+  {
+   "i": 514,
+   "s": "00:14:18,333",
+   "e": "00:14:19,499",
+   "t": "",
+   "x": "(Expectations)\nFirst,",
+   "skip": false
+  },
+  {
+   "i": 515,
+   "s": "00:14:19,499",
+   "e": "00:14:21,768",
+   "t": "",
+   "x": "being held makes me feel incredibly at ease",
+   "skip": false
+  },
+  {
+   "i": 516,
+   "s": "00:14:21,768",
+   "e": "00:14:23,370",
+   "t": "",
+   "x": "(Fully immersed)\nAww",
+   "skip": false
+  },
+  {
+   "i": 517,
+   "s": "00:14:23,370",
+   "e": "00:14:23,804",
+   "t": "",
+   "x": "Second",
+   "skip": false
+  },
+  {
+   "i": 518,
+   "s": "00:14:23,804",
+   "e": "00:14:24,838",
+   "t": "",
+   "x": "She's just so beautiful",
+   "skip": false
+  },
+  {
+   "i": 519,
+   "s": "00:14:24,838",
+   "e": "00:14:26,306",
+   "t": "",
+   "x": "(Beauty acknowledged)",
+   "skip": false
+  },
+  {
+   "i": 520,
+   "s": "00:14:26,306",
+   "e": "00:14:27,174",
+   "t": "",
+   "x": "- Third\n- Third",
+   "skip": false
+  },
+  {
+   "i": 521,
+   "s": "00:14:27,177",
+   "e": "00:14:28,208",
+   "t": "",
+   "x": "Makes money way too well",
+   "skip": false
+  },
+  {
+   "i": 522,
+   "s": "00:14:28,213",
+   "e": "00:14:30,677",
+   "t": "",
+   "x": "Oh wow, that's the important part",
+   "skip": false
+  },
+  {
+   "i": 523,
+   "s": "00:14:30,677",
+   "e": "00:14:33,046",
+   "t": "",
+   "x": "(Say no more)\nThat's why they're getting married",
+   "skip": false
+  },
+  {
+   "i": 524,
+   "s": "00:14:33,046",
+   "e": "00:14:34,781",
+   "t": "",
+   "x": "(8:00 PM - Off work)\nIt's over",
+   "skip": false
+  },
+  {
+   "i": 525,
+   "s": "00:14:34,781",
+   "e": "00:14:36,617",
+   "t": "",
+   "x": "(Back in the freezer warehouse)\nThank you for your hard work",
+   "skip": false
+  },
+  {
+   "i": 526,
+   "s": "00:14:36,617",
+   "e": "00:14:37,751",
+   "t": "",
+   "x": "Thank you",
+   "skip": false
+  },
+  {
+   "i": 527,
+   "s": "00:14:37,751",
+   "e": "00:14:39,119",
+   "t": "",
+   "x": "It's done",
+   "skip": false
+  },
+  {
+   "i": 528,
+   "s": "00:14:39,119",
+   "e": "00:14:40,721",
+   "t": "",
+   "x": "(Shivering)\nHa ha",
+   "skip": false
+  },
+  {
+   "i": 529,
+   "s": "00:14:42,286",
+   "e": "00:14:42,924",
+   "t": "",
+   "x": "(Nom)",
+   "skip": false
+  },
+  {
+   "i": 530,
+   "s": "00:14:42,925",
+   "e": "00:14:44,725",
+   "t": "",
+   "x": "Ten thousand, twenty thousand,\nthirty thousand won",
+   "skip": false
+  },
+  {
+   "i": 531,
+   "s": "00:14:44,725",
+   "e": "00:14:46,060",
+   "t": "",
+   "x": "Three, four",
+   "skip": false
+  },
+  {
+   "i": 532,
+   "s": "00:14:46,060",
+   "e": "00:14:48,162",
+   "t": "",
+   "x": "Sixty-two thousand five hundred won",
+   "skip": false
+  },
+  {
+   "i": 533,
+   "s": "00:14:48,163",
+   "e": "00:14:48,963",
+   "t": "",
+   "x": "(Steakhouse payout\nTotal: 62,500 won)\nHow many hours?",
+   "skip": false
+  },
+  {
+   "i": 534,
+   "s": "00:14:48,963",
+   "e": "00:14:49,864",
+   "t": "",
+   "x": "Five hours",
+   "skip": false
+  },
+  {
+   "i": 535,
+   "s": "00:14:49,864",
+   "e": "00:14:51,599",
+   "t": "",
+   "x": "- So that’s ten thousand won per hour\n- Whoa",
+   "skip": false
+  },
+  {
+   "i": 536,
+   "s": "00:14:51,599",
+   "e": "00:14:54,135",
+   "t": "",
+   "x": "So we’re actually getting\na bit more than ten thousand won",
+   "skip": false
+  },
+  {
+   "i": 537,
+   "s": "00:14:54,135",
+   "e": "00:14:54,468",
+   "t": "",
+   "x": "Whoa",
+   "skip": false
+  },
+  {
+   "i": 538,
+   "s": "00:14:54,468",
+   "e": "00:14:56,270",
+   "t": "",
+   "x": "You’re quick at calculating\nthis kind of thing, right?",
+   "skip": false
+  },
+  {
+   "i": 539,
+   "s": "00:14:56,272",
+   "e": "00:14:57,604",
+   "t": "",
+   "x": "(Shiver)\nWhoa",
+   "skip": false
+  },
+  {
+   "i": 540,
+   "s": "00:14:57,605",
+   "e": "00:14:58,338",
+   "t": "",
+   "x": "Give me your hand",
+   "skip": false
+  },
+  {
+   "i": 541,
+   "s": "00:14:58,340",
+   "e": "00:14:59,172",
+   "t": "",
+   "x": "Okay, okay, okay",
+   "skip": false
+  },
+  {
+   "i": 542,
+   "s": "00:14:59,172",
+   "e": "00:15:01,308",
+   "t": "",
+   "x": "Out of five points",
+   "skip": false
+  },
+  {
+   "i": 543,
+   "s": "00:15:01,308",
+   "e": "00:15:02,442",
+   "t": "",
+   "x": "Hmm",
+   "skip": false
+  },
+  {
+   "i": 544,
+   "s": "00:15:02,442",
+   "e": "00:15:03,977",
+   "t": "",
+   "x": "Hmm...",
+   "skip": false
+  },
+  {
+   "i": 545,
+   "s": "00:15:03,977",
+   "e": "00:15:04,645",
+   "t": "",
+   "x": "3.5 points",
+   "skip": false
+  },
+  {
+   "i": 546,
+   "s": "00:15:04,645",
+   "e": "00:15:05,879",
+   "t": "",
+   "x": "Oh, oh wow, wait a second",
+   "skip": false
+  },
+  {
+   "i": 547,
+   "s": "00:15:05,879",
+   "e": "00:15:08,916",
+   "t": "",
+   "x": "(Steakhouse job satisfaction\nFun meeting customers 5.0\nThat feeling",
+   "skip": false
+  },
+  {
+   "i": 548,
+   "s": "00:15:08,916",
+   "e": "00:15:11,618",
+   "t": "",
+   "x": "Strict atmosphere 3.0\nFreezer smell 3.0)\nwhen you get to congratulate customers,",
+   "skip": false
+  },
+  {
+   "i": 549,
+   "s": "00:15:11,619",
+   "e": "00:15:12,586",
+   "t": "",
+   "x": "see couples, feel proud",
+   "skip": false
+  },
+  {
+   "i": 550,
+   "s": "00:15:12,587",
+   "e": "00:15:13,287",
+   "t": "",
+   "x": "That was fun",
+   "skip": false
+  },
+  {
+   "i": 551,
+   "s": "00:15:13,288",
+   "e": "00:15:13,787",
+   "t": "",
+   "x": "Yeah",
+   "skip": false
+  },
+  {
+   "i": 552,
+   "s": "00:15:13,787",
+   "e": "00:15:16,256",
+   "t": "",
+   "x": "I think that's the kind of happiness\nthat keeps me going",
+   "skip": false
+  },
+  {
+   "i": 553,
+   "s": "00:15:16,256",
+   "e": "00:15:18,358",
+   "t": "",
+   "x": "And then out in the hall,\nit gets pretty intense",
+   "skip": false
+  },
+  {
+   "i": 554,
+   "s": "00:15:18,358",
+   "e": "00:15:19,526",
+   "t": "",
+   "x": "Boss",
+   "skip": false
+  },
+  {
+   "i": 555,
+   "s": "00:15:19,526",
+   "e": "00:15:20,394",
+   "t": "",
+   "x": "The captains are so",
+   "skip": false
+  },
+  {
+   "i": 556,
+   "s": "00:15:20,394",
+   "e": "00:15:20,894",
+   "t": "",
+   "x": "Chef",
+   "skip": false
+  },
+  {
+   "i": 557,
+   "s": "00:15:20,894",
+   "e": "00:15:23,163",
+   "t": "",
+   "x": "- It was a bit scary\n- Yeah,",
+   "skip": false
+  },
+  {
+   "i": 558,
+   "s": "00:15:23,163",
+   "e": "00:15:25,165",
+   "t": "",
+   "x": "understandable",
+   "skip": false
+  },
+  {
+   "i": 559,
+   "s": "00:15:25,165",
+   "e": "00:15:25,999",
+   "t": "",
+   "x": "Mhm",
+   "skip": false
+  },
+  {
+   "i": 560,
+   "s": "00:15:25,999",
+   "e": "00:15:27,935",
+   "t": "",
+   "x": "Today was my first Workdol,",
+   "skip": false
+  },
+  {
+   "i": 561,
+   "s": "00:15:27,935",
+   "e": "00:15:30,771",
+   "t": "",
+   "x": "and I had such a great time\nbecause it left such a strong impression",
+   "skip": false
+  },
+  {
+   "i": 562,
+   "s": "00:15:30,771",
+   "e": "00:15:33,941",
+   "t": "",
+   "x": "My rating is also 3.5 stars,\njust like Asa unnie",
+   "skip": false
+  },
+  {
+   "i": 563,
+   "s": "00:15:33,944",
+   "e": "00:15:37,178",
+   "t": "",
+   "x": "(Steakhouse work satisfaction\nKitchen is a bit scary 3.0\nHonestly, the kitchen is really scary",
+   "skip": false
+  },
+  {
+   "i": 564,
+   "s": "00:15:37,179",
+   "e": "00:15:37,678",
+   "t": "",
+   "x": "True",
+   "skip": false
+  },
+  {
+   "i": 565,
+   "s": "00:15:37,678",
+   "e": "00:15:41,682",
+   "t": "",
+   "x": "Introvert issue 3.0\nFun meeting customers 5.0)\nSo I think it might tough for introverted people",
+   "skip": false
+  },
+  {
+   "i": 566,
+   "s": "00:15:44,385",
+   "e": "00:15:46,452",
+   "t": "",
+   "x": "(Today’s ending pose?)\nSince we’re at a fancy restaurant,",
+   "skip": false
+  },
+  {
+   "i": 567,
+   "s": "00:15:46,452",
+   "e": "00:15:48,189",
+   "t": "",
+   "x": "let’s sing “Rich Man” once,",
+   "skip": false
+  },
+  {
+   "i": 568,
+   "s": "00:15:48,189",
+   "e": "00:15:50,992",
+   "t": "",
+   "x": "so we can become",
+   "skip": false
+  },
+  {
+   "i": 569,
+   "s": "00:15:50,992",
+   "e": "00:15:52,760",
+   "t": "",
+   "x": "rich ourselves someday",
+   "skip": false
+  },
+  {
+   "i": 570,
+   "s": "00:15:52,760",
+   "e": "00:15:54,629",
+   "t": "",
+   "x": "I am a Rich Man",
+   "skip": false
+  },
+  {
+   "i": 571,
+   "s": "00:15:54,629",
+   "e": "00:15:57,131",
+   "t": "",
+   "x": "(Chilling concert in the freezer warehouse)",
+   "skip": false
+  },
+  {
+   "i": 572,
+   "s": "00:15:57,131",
+   "e": "00:15:58,666",
+   "t": "",
+   "x": "I am a Rich Man",
+   "skip": false
+  },
+  {
+   "i": 573,
+   "s": "00:15:58,666",
+   "e": "00:16:00,501",
+   "t": "",
+   "x": "But our new song is coming out soon",
+   "skip": false
+  },
+  {
+   "i": 574,
+   "s": "00:16:00,501",
+   "e": "00:16:04,705",
+   "t": "",
+   "x": "(Please check out “We Go Up” too!)",
+   "skip": false
+  },
+  {
+   "i": 575,
+   "s": "00:16:06,707",
+   "e": "00:16:08,842",
+   "t": "",
+   "x": "(Q. Ever been confessed with a letter?)\nAsa, have you ever gotten a love letter?",
+   "skip": false
+  },
+  {
+   "i": 576,
+   "s": "00:16:08,843",
+   "e": "00:16:10,678",
+   "t": "",
+   "x": "Oh, plenty of times",
+   "skip": false
+  },
+  {
+   "i": 577,
+   "s": "00:16:10,678",
+   "e": "00:16:12,646",
+   "t": "",
+   "x": "Actually, I have a story about that",
+   "skip": false
+  },
+  {
+   "i": 578,
+   "s": "00:16:12,646",
+   "e": "00:16:15,049",
+   "t": "",
+   "x": "(A little trip down memory lane)\nIt was the last day of school,",
+   "skip": false
+  },
+  {
+   "i": 579,
+   "s": "00:16:15,049",
+   "e": "00:16:16,517",
+   "t": "",
+   "x": "and I found a confession letter",
+   "skip": false
+  },
+  {
+   "i": 580,
+   "s": "00:16:16,517",
+   "e": "00:16:17,651",
+   "t": "",
+   "x": "inside my shoe",
+   "skip": false
+  },
+  {
+   "i": 581,
+   "s": "00:16:17,651",
+   "e": "00:16:18,752",
+   "t": "",
+   "x": "Stop it",
+   "skip": false
+  },
+  {
+   "i": 582,
+   "s": "00:16:18,752",
+   "e": "00:16:20,154",
+   "t": "",
+   "x": "Are you even listening to my story?",
+   "skip": false
+  },
+  {
+   "i": 583,
+   "s": "00:16:20,154",
+   "e": "00:16:21,855",
+   "t": "",
+   "x": "(Bored)\nOh, I’ve heard that so many times",
+   "skip": false
+  },
+  {
+   "i": 584,
+   "s": "00:16:21,855",
+   "e": "00:16:24,592",
+   "t": "",
+   "x": "But I saw that in Korea,",
+   "skip": false
+  },
+  {
+   "i": 585,
+   "s": "00:16:24,593",
+   "e": "00:16:26,160",
+   "t": "",
+   "x": "so I never actually met him",
+   "skip": false
+  },
+  {
+   "i": 586,
+   "s": "00:16:26,160",
+   "e": "00:16:28,062",
+   "t": "",
+   "x": "(Summary)\nSo the shoes with the letter inside",
+   "skip": false
+  },
+  {
+   "i": 587,
+   "s": "00:16:28,062",
+   "e": "00:16:28,896",
+   "t": "",
+   "x": "came straight to Korea just like that",
+   "skip": false
+  },
+  {
+   "i": 588,
+   "s": "00:16:28,896",
+   "e": "00:16:29,330",
+   "t": "",
+   "x": "True",
+   "skip": false
+  },
+  {
+   "i": 589,
+   "s": "00:16:29,330",
+   "e": "00:16:30,197",
+   "t": "",
+   "x": "I was just dancing,",
+   "skip": false
+  },
+  {
+   "i": 590,
+   "s": "00:16:30,197",
+   "e": "00:16:31,198",
+   "t": "",
+   "x": "and suddenly, huh?",
+   "skip": false
+  },
+  {
+   "i": 591,
+   "s": "00:16:31,200",
+   "e": "00:16:32,366",
+   "t": "",
+   "x": "Is there something in my shoe?",
+   "skip": false
+  },
+  {
+   "i": 592,
+   "s": "00:16:32,366",
+   "e": "00:16:33,467",
+   "t": "",
+   "x": "I took it out to look,",
+   "skip": false
+  },
+  {
+   "i": 593,
+   "s": "00:16:33,468",
+   "e": "00:16:34,001",
+   "t": "",
+   "x": "and there was",
+   "skip": false
+  },
+  {
+   "i": 594,
+   "s": "00:16:34,001",
+   "e": "00:16:34,768",
+   "t": "",
+   "x": "(A letter)\na letter inside",
+   "skip": false
+  },
+  {
+   "i": 595,
+   "s": "00:16:34,768",
+   "e": "00:16:35,469",
+   "t": "",
+   "x": "So",
+   "skip": false
+  },
+  {
+   "i": 596,
+   "s": "00:16:35,469",
+   "e": "00:16:37,571",
+   "t": "",
+   "x": "(That's enough now)",
+   "skip": false
+  }
+ ]
+}

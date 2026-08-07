@@ -1,0 +1,120 @@
+[121] Mi primer helado de Baskin-Robbins
+[122] (¿Eh?)\nPerfecto
+[123] (Sin recuerdos falsos, por favor)
+[124] Por fin, por fin
+[125] (Siguiente: práctica de pint)\nCon un pint, van tres sabores
+[126] Lo sirves\npara que el cliente vea los tres sabores
+[127] Ah, ¿como cuando lo enrollas\nen una bolita así?
+[128] No
+[129] (Firme)\nConcéntrate por favor
+[130] (Concentración)\nRaspa por la orilla
+[131] Esto es difícil de alinear
+[132] (Temblando)\nUy, este es el bueno
+[133] Está durísimo
+[134] Sí, este está duro
+[135] Supongo que este no es popular
+[136] Los que no son populares\ncuestan más trabajo sacar, ¿verdad?
+[137] (Fría)\nNo
+[138] (Tan fría)\nCero compasión
+[139] (Agotada)\nUy, qué calor
+[140] Pero con esto,
+[141] si eres bajita puede estar difícil
+[142] ¿Otra vez los pies de Jiwon están en el aire?
+[143] (Checa de inmediato)
+[144] (De puntitas, bajando)\nTu timing es tan...
+[145] (No la cacharon)\nEl timing es una locura, ¿no?
+[146] (Se le pasó el momento)
+[147] Voy a intentarlo
+[148] (Puro estilo)
+[149] Camina como pandillera
+[150] (Un poco intimidante)\nEsto es en serio gracioso
+[151] Es la asesina serial de las bolas de helado
+[152] (Parece que va a arrasar\ncon todo)\nAsí
+[153] (Sunbae)\nTú estás en un girl group
+[154] (Voltea a ver)
+[155] (¿Se está ensuciando...?)
+[156] ¿Tratando de aparentar que trabajaste duro?
+[157] ¿Cómo lo supiste?
+[158] (¡Tú también estás en un girl group!)\n¿Cómo lo supiste?
+[159] (12:00 PM\nAbren al público)
+[160] Gracias, buen provecho
+[161] Jiwon y Rora se encargan de servir
+[162] Chiquita y yo vamos a atender el mostrador
+[163] (Qué tierna)
+[164] (Adiós)\nÁndale, ve
+[165] ¡Chiquita, tú puedes!
+[166] Por fin se fue
+[167] (Por fin, algo de paz)\nDijo que por fin se fue
+[168] (Practicando el saludo)\nBienvenido a Baskin Robbins
+[169] ¿En qué puedo
+[170] ayudarle con su orden?
+[171] Sí
+[172] Estoy tan nerviosa que no me salen las palabras
+[173] (Entra un cliente)\nBienvenido a Baskin-Robbins
+[174] ¿Qué tamaño le doy?
+[175] Dos individuales normales, por favor
+[176] (Nerviosa, pero cumpliendo)\n- ¿Lo quiere en vaso?\n- En cono, por favor
+[177] Vine porque me enojé tanto\nque se me bajó el azúcar
+[178] Ah
+[179] (Coma algo y cálmese...)\nElija, tenemos muchos sabores
+[180] (Un gusto)\n¡Ah, hola! Bienvenido
+[181] Hola
+[182] (Primero, un saludo entusiasta)\nEsto es Baskin-Robbins
+[183] (Subiendo la energía)\nHola
+[184] Hola
+[185] Dijo que vino\nporque se le bajó el azúcar
+[186] Ah, se le bajó el azúcar
+[187] (Repartiendo azúcar de inmediato)\nUn momento, por favor
+[188] - Aquí tiene, que lo disfrute\n- Gracias
+[189] Eso me quedó perfecto
+[190] ¿Ustedes dos son amigas?
+[191] No, ella es mi superior y yo estoy debajo
+[192] (Empleada/ Gerente)
+[193] Ah, ¿en serio?
+[194] ¿Cómo es el ambiente? ¿La cultura de la empresa?
+[195] Como es una empresa extranjera,\ntal vez por eso el ambiente es más relajado
+[196] (Fantasía)\nPero si es empresa extranjera,\nnormalmente es bien relax, ¿no?
+[197] ¿Se hablan de tú?
+[198] (Tan formal)\nNada de hablar de tú
+[199] Wow, sí que marcas bien la línea
+[200] Sip, esto es Corea sin duda
+[201] (Directa)\nA partir de ahora nos hablamos de tú
+[202] (¿Así, de repente...?)\nA partir de ahora nos hablamos de tú
+[203] ¿Quieres una probadita?
+[204] (¿Te quieres morir?)\nDe plano lo odia
+[205] (Sobresaltada)\n¡Ah!
+[206] (Segundo cliente oficinista)\nBienvenido, esto es Baskin-Robbins
+[207] (Tímida)\nDígame qué se le antoja
+[208] Lo que sea popular
+[209] ¿Lo que sea popular?
+[210] ¿Cómo se siente ahorita?
+[211] (Le voy a recomendar algo acorde)\n¿Cómo se siente?
+[212] Últimamente el mundo ha estado pesado,
+[213] así que creo que también lo sentimos
+[214] Si come un poco de helado,\nse va a sentir mucho mejor
+[215] (No recibió ninguna recomendación)\n¿Qué sabor le doy?
+[216] (Necesita azúcar)\nDeme algo dulce, por favor
+[217] (La realidad de los oficinistas coreanos)\nLos oficinistas de verdad buscan\nmucho lo dulce
+[218] ¿En qué trabaja?
+[219] Trabajo en una aseguradora
+[220] Ah, seguros
+[221] (Una persona se ve especialmente agotada...)\n¿Seguros?
+[222] (Preocupada)\n¿De verdad tiene el azúcar baja?
+[223] Sí
+[224] ¿Por qué está baja?
+[225] ¿Qué fue tan difícil?
+[226] Un cliente me pidió que tirara
+[227] la basura que traía cuando se fue
+[228] Dios mío
+[229] Me puso su basura en la mano
+[230] y luego se limpió la mano en la mía otra vez
+[231] (Se topó con un cliente basura)
+[232] - Eso ya es medio...\n- Ese sí es un cliente de pesadilla
+[233] No, en serio, eso no está bien
+[234] (Exhibición pública, vamos)\nUnas palabras para ese cliente de pesadilla
+[235] (Trauma)
+[236] Estoy sudando como loca
+[237] Nomás de pensarlo\nya me da sudor
+[238] Por favor no nos hostiguen
+[239] (Refrescante)\nPor favor, gracias
+[240] (¿Nos estás viendo, dolor de cabeza?)\n- No las molesten, patanes\n- Esto es brutal

@@ -1,0 +1,120 @@
+[121] [¡Practiquen el paso de baile para el show de talentos!]\nCuando las vea
+[122] practicando para el show de talentos,
+[123] voy a asumir que no quieren dormir,
+[124] [¡Objeto para dormir u objeto de penalización!]\nasí que me voy a asegurar de que se duerman para siempre.
+[125] ¡Todas, a dormir!
+[126] [Después de jugar, todas están en la cama]
+[127] Esta almohada es súper cómoda y fresquita.
+[128] ¿Verdad?
+[129] Sentí un poco de calor mientras jugábamos,
+[130] pero siento que me estoy refrescando.
+[131] Esto es genial para el calor.
+[132] Estaba tan cómoda que me quedé dormida un rato.
+[133] Yo también.
+[134] Es tan cómoda.
+[135] [Es el mejor artículo de cama]\nMe la quiero llevar a casa.
+[136] [Se sienta de golpe]
+[137] Espérense un segundo.
+[138] ¡Despierten! ¡Despierten!
+[139] [¡Todas, despierten!]
+[140] Mañana es el show de talentos.
+[141] No podemos dejar que las alumnas mayores
+[142] nos ganen.
+[143] ¡No manches!
+[144] Vamos a darlo todo.
+[145] [Show de talentos]\nPractiquemos duro y luego a dormir.
+[146] Lo voy a prender.
+[147] [Reproducir]\nDéjenme darle a 'play'.
+[148] [Corriendo]
+[149] [Está bien, ok]
+[150] [Está bien, ok]
+[151] [BABYMONSTER]
+[152] (Evadiendo al instructor) ¿Apagamos la música?
+[153] [Instructor, despídete]
+[154] Seamos profesionales.
+[155] [Déjenme aplaudir profesionalmente]
+[156] [¡Beep!]
+[157] [Que alguien ayude a BABYMONSTER]
+[158] [Rodando]
+[159] ¿Qué está pasando?
+[160] ¿Segura que estás dormida?
+[161] Esto no puede ser.
+[162] [Levantándose]
+[163] Hace frío.
+[164] - ¿Tienes frío?\n- Sí.
+[165] [Jaja]
+[166] ¿Estás cómoda así?
+[167] ¿Qué está pasando?
+[168] Supongo que te caíste rodando de la cama.
+[169] [Vuelve a la cama como si nada]
+[170] [Jaja]
+[171] Todas, cierren los ojos.
+[172] [Se para de nuevo]
+[173] ¿Por qué sigues despierta?
+[174] Todas están dormidas.
+[175] Otra vez.
+[176] [Practicando otra vez, imitando al Instructor Florian]
+[177] Soy yo.
+[178] [Hago mi parte aunque sea un caos]
+[179] [Súper concentrada]\nVamos.
+[180] ¿Dónde está mi pareja?
+[181] [CHIQUITA está de vuelta]
+[182] [RAMI está vigilando la puerta]
+[183] [Se acerca la parte de RUKA]\n¡Ve a bailar!
+[184] [Vigilando la puerta hasta el final]
+[185] [Regresa rápido]
+[186] [¿Qué esperas?]
+[187] [Todas están sincronizadas]
+[188] ¡Hazlo bien!
+[189] [Divirtiéndose imitando al Instructor]\n¿Por qué sigues despierta?
+[190] [¿Me llamaste?]
+[191] [Regresa rápido]
+[192] ¿Qué le pasa a la puerta?
+[193] [¿Por qué no puedo abrirla?]\n¡Ábrela!
+[194] [Jaja]
+[195] ¡Quiten este colchón ahora mismo!
+[196] Okay.
+[197] ¿Quién hizo esto?
+[198] [Jaja]
+[199] Si queda alguna cama...
+[200] No queda ninguna.
+[201] [Tirada en el piso]
+[202] Esto no puede ser.
+[203] En este retiro son un solo equipo.
+[204] Son un equipo.
+[205] Aunque atrape solo a una de ustedes,
+[206] van a tener que participar
+[207] todas juntas en una misión grupal.
+[208] ¡Todas, hagan una fila!
+[209] 1, 2, 3. ¡Levántense!
+[210] Si logran completar la misión grupal,
+[211] les voy a dar un objeto
+[212] para que duerman mejor.
+[213] Eso, si lo logran.
+[214] ¡Pero!
+[215] Si fallan, les va a tocar un objeto de penalización.
+[216] Su misión grupal es formar un abanico humano.
+[217] Las siete tendrán que posar\nen forma de abanico y quedarse así.
+[218] ¡Empiecen ahora!
+[219] [Decidiendo el orden primero]\nYo voy cuarta.
+[220] - Yo voy tercera.\n- Con que no sea la primera, está bien.
+[221] Esa es la primera.
+[222] La que está aquí
+[223] tiene que ser fuerte.
+[224] Esa no soy yo.
+[225] [Jaja]
+[226] [¿Quién es la baby más fuerte?]\n¿Quién es la más fuerte?
+[227] [Soy yo]\nCHIQUITA.
+[228] [Cambiaron a CHIQUITA]\nAcuéstate aquí.
+[229] [Abanico Humano]\nOkay. ¡Vamos!
+[230] Deberías bajar más.
+[231] Todas deben apoyarse entre sí.
+[232] ¿Por qué está tan lejos?
+[233] Okay. Vamos.
+[235] ¡Vamos! Hagan la forma de abanico.
+[236] [AHYEON y CHIQUITA están a una palma de distancia]
+[237] Dame tu mano.
+[238] ¡Levántate!
+[239] Estoy sudando.
+[240] Eso estuvo bien.
+[241] Aunque no fue perfecto,

@@ -1,0 +1,120 @@
+[1] ¡Adelante, primera alumna!
+[2] [Jaja]
+[3] [El nivel de dopamina de todas está al máximo]
+[4] ¿Por qué te ríes?
+[5] [¿Quién hizo reír a todas?]
+[6] [Hermosa ASA-lisa]
+[7] ¿Verdad que es hermosa?
+[8] ¡Siguiente!
+[9] ¡Sal aquí, RORA!
+[10] [Jaja x2]
+[11] ¿Alguien necesita un pañuelo?
+[12] [¿Por qué se volvieron la Mona Lisa y el pañuelo?]\n¿Ahora entienden qué tan aterrador es esto?
+[13] [El silencio de las ídolos:\nBABYMONSTER]
+[14] [La noche llegó\ntras un día de locos]
+[15] Ya que nos bañamos,
+[16] quiero irme a dormir.
+[17] [El itinerario del retiro estuvo una locura]\n¿Verdad?
+[18] Tengo mucho sueño.
+[19] Ya me voy a dormir. Tengo sueño.
+[20] ¿No está muy chica esta cama?
+[21] No creo que quepamos las siete aquí.
+[22] Debería dormir en el piso.
+[23] [Plop]\nMejor duermo aquí.
+[24] [Toc toc]
+[25] [Alguien toca la puerta]\n¿Quién será?
+[26] - ¿Quién es?\n- ¿Un fantasma?
+[27] [¿Alguien pidió algo?]
+[28] [Jaja]
+[29] [Llegó un colchón extra]\nAquí tienen su colchón.
+[30] ¿Me dan un poco de espacio?
+[31] ¡Tu coreano está muy bien-yo!
+[32] [Tan hip-hop]
+[33] Okay. Ya me voy entonces.
+[34] [Todas entran en pánico]\nEspera. ¿Nos lo vas a dejar así nada más?
+[35] Es súper fácil, instálenlo ustedes mismas.
+[36] [Entendido]\nOkay.
+[37] - Okay. Adiós.\n- Gracias.
+[38] [Se ponen a trabajar]\nParecemos niñas de campamento.
+[39] [Y empieza el relajo]
+[40] Agarren las puntas.
+[41] [Tensión 1 / Tensión 2]\nAgárrenlas bien.
+[42] [Yo jalo a RAMI]
+[43] [Se volvió un juego de jalar a RAMI]
+[44] [El colchón sale en un dos por tres]
+[45] Es como un gimbap.
+[46] [Solo con cortar el envoltorio]\nVamos.
+[47] ¡Oh, qué cool!
+[48] [Buen trabajo, RAMI]
+[49] ¡Lo logré!
+[50] [El colchón se infla solo]
+[51] [¡Cucú!]
+[52] [#Colchón #Instalación #Éxito]
+[53] Pero como
+[54] viene sellado al vacío,
+[55] solo había que sacarlo.
+[56] - Exacto.\n- Qué práctico.
+[57] Con una sola persona basta.
+[58] [De repente todas quieren aventarse]
+[59] Siéntense.
+[60] [Encontraron su cama favorita aquí]\nMe encanta.
+[61] Podemos dormir aquí.
+[62] [Ya que llegó la cama, es hora de dormir]\nAquí...
+[63] [Buscando entre las cosas]
+[64] [Alguien escondió un dulce de limón aquí]
+[65] [Objeto especial]\n¿Qué es? ¿Un dulce?
+[66] [Todas tienen los ojos puestos en eso]\n¿Qué es?
+[67] ¿Quién quiere un dulce?
+[68] [A todas les encantan los dulces]\n¿Yo?
+[69] Vamos a jugar algo para que sea justo.
+[70] [¿Un juego? ¡Me apunto!]\n¿Un juego?
+[71] ['Batalla de cama' por un dulce de limón]
+[72] [¡Empuja a tu rival fuera de la cama\nsin levantarte!]
+[73] [La última que quede gana]
+[74] [Gritando FOREVER como porra]
+[75] ¡Aquí vamos!
+[76] [Empieza la Batalla de Cama]
+[77] Esto es...
+[78] No estoy lista.
+[79] [Rodando]
+[80] ¡Empújala fuera!
+[81] [Rodando]\nVen aquí.
+[82] [RAMI se encargó de las dos en un segundo]
+[83] [PHARITA también quedó fuera]
+[84] [RORA está asustada]
+[85] [RORA se retira como estrategia]\nMejor renuncio.
+[86] [Una victoria fácil]
+[87] [La ganadora de la batalla de cama]\n¡RAMI es la ganadora!
+[88] Felicidades.
+[89] [RAMI se ganó el dulce de limón]\nMi dulce.
+[90] Eso estuvo súper divertido.
+[91] [¡Silbido!!!]
+[92] [Volando por los aires]
+[93] ¿Qué se supone que estás haciendo ahora?
+[94] ¿Qué haces?
+[95] ¿No eras el repartidor?
+[96] [Se ve conocido]\nYa nos conocíamos, ¿no?
+[97] Tiene dos trabajos.
+[98] [Cuesta llegar a fin de mes]
+[99] [Jaja]
+[100] ¡RAMI!
+[101] [¿Yo..?]\n¡RAMI!
+[102] ¿Qué tienes en la mano?
+[103] Nada.
+[104] Vi algo amarillo.
+[105] Eso es amarillo.
+[106] Ay, ¿mi cabello?
+[107] El mío también es amarillo.
+[108] [Jaja]
+[109] Eso no. ¡Dame eso!
+[110] ¿Qué pasa si te comes un dulce\nantes de dormir?
+[111] ¡Está rico!
+[112] [Tiene razón]\nEstá rico.
+[113] Se te van a picar los dientes.
+[114] No.
+[115] [Pausa momentánea]
+[116] Te lo voy a confiscar.
+[117] ¡Se lo está confiscando!
+[118] [Bebé Florian]\nComía muchos de estos cuando era bebé.
+[119] Asegúrense de arreglar su cama primero\ny se van a dormir.
+[120] [Mañana es el D-DAY del show de talentos]
