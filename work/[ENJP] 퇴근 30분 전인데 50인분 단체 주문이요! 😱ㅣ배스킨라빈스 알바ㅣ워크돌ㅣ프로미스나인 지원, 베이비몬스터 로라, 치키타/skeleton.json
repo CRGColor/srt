@@ -1,0 +1,733 @@
+{
+ "source": "subs/[ENJP] 퇴근 30분 전인데 50인분 단체 주문이요! 😱ㅣ배스킨라빈스 알바ㅣ워크돌ㅣ프로미스나인 지원, 베이비몬스터 로라, 치키타.srt",
+ "cues": [
+  {
+   "i": 1,
+   "s": "00:00:00,001",
+   "e": "00:00:18,435",
+   "t": "",
+   "x": "(Suddenly showing off their talent) - Scream, scream - Ugh, this is exhausting Oooohhhhh Hello, everyone Hah Aah I’m here again today to do another brutally tough part-time job",
+   "skip": false
+  },
+  {
+   "i": 2,
+   "s": "00:00:18,435",
+   "e": "00:00:28,571",
+   "t": "",
+   "x": "(Respect) It feels like watching a Workdol YouTube Let's see out the supporters who came out here today to support Jiwon! Part-time job supporters We said we’d do this together Just a second",
+   "skip": false
+  },
+  {
+   "i": 3,
+   "s": "00:00:28,571",
+   "e": "00:00:35,243",
+   "t": "",
+   "x": "(Already out of sync from the start) - Just a second - One, two, three Part-time job supporters BABYMONSTER Okay, sunbae, one more time please",
+   "skip": false
+  },
+  {
+   "i": 4,
+   "s": "00:00:35,243",
+   "e": "00:00:42,709",
+   "t": "",
+   "x": "(Rora/ Chiquita/ BABYMONSTER) We’re BABYMONSTER, here to help out for the part-time job From what I heard, you two have a lot of special talents",
+   "skip": false
+  },
+  {
+   "i": 5,
+   "s": "00:00:42,709",
+   "e": "00:00:51,509",
+   "t": "",
+   "x": "(Korea Got Talent right here) If you’re not funny, it gets real serious here (Confident) Yeah, I can be funny Rap Bout it, bout it, all the way down to my toes, toes Get on the beat",
+   "skip": false
+  },
+  {
+   "i": 6,
+   "s": "00:00:51,509",
+   "e": "00:01:11,949",
+   "t": "",
+   "x": "(Cold) I don’t know the lyrics (Wow) (Is this really what it's like being the Workdol MC..?.) (In awe) (Satisfied) Yeah, like this (Nervous/ Nervous 22) So today's part-time job is ice cream",
+   "skip": false
+  },
+  {
+   "i": 7,
+   "s": "00:01:11,949",
+   "e": "00:01:21,916",
+   "t": "",
+   "x": "(Here to destroy their forearms) (Working at Baskin Robbins) (Already worried) Since it’s such a big store, I’m thinking this might be a bit harder than usual You think it will be hard?",
+   "skip": false
+  },
+  {
+   "i": 8,
+   "s": "00:01:21,916",
+   "e": "00:01:31,508",
+   "t": "",
+   "x": "It’s gonna be hella rough (Flustered) Wait, is it okay to say \"hella” on here? (It’s okay, guys...) 50 today (Because it actually is \"hella\" rough) Feeling faint (Let's go to work) All right, let's go",
+   "skip": false
+  },
+  {
+   "i": 9,
+   "s": "00:01:31,508",
+   "e": "00:01:47,107",
+   "t": "",
+   "x": "Go I’ve got some backup with me today, so I can take it easy (Finally entering) Wow, it really is huge It’s really this nice? Where’s the mentor we’ll be working with today? Sunbae!",
+   "skip": false
+  },
+  {
+   "i": 10,
+   "s": "00:01:47,107",
+   "e": "00:02:00,870",
+   "t": "",
+   "x": "- Sunbae! - Sunbae! Is it her here...? (Jihyun Lee/ 11th year) Welcome Welcome to Baskin-Robbins (Baffled) Hello Hello (Runs off immediately) What was that entrance just now? (Shy woman)",
+   "skip": false
+  },
+  {
+   "i": 11,
+   "s": "00:02:00,870",
+   "e": "00:02:12,966",
+   "t": "",
+   "x": "(Changed clothes) I’m going to crush today’s part-time shift Are you ready? (Whoops) Aaaaaah! (Looks like she’s about to smash the camera first) Are you okay? (Shy) Trainees, please come in this way",
+   "skip": false
+  },
+  {
+   "i": 12,
+   "s": "00:02:12,966",
+   "e": "00:02:27,606",
+   "t": "",
+   "x": "Yes! Super introvert She really is a super introvert We have to focus because her voice is ridiculously quiet (So quiet) Please wear gloves (Splashing around) We wear gloves? Oh, my face You",
+   "skip": false
+  },
+  {
+   "i": 13,
+   "s": "00:02:27,606",
+   "e": "00:02:34,571",
+   "t": "",
+   "x": "(Pow) can’t do that on my face It feels like a coming-of-age drama Hey (You little troublemaker) Can’t you even put your gloves on?",
+   "skip": false
+  },
+  {
+   "i": 14,
+   "s": "00:02:34,571",
+   "e": "00:02:43,163",
+   "t": "",
+   "x": "(A formidable opponent...) I can already tell this is going to be tough (Already exhausted) I’m kind of excited to work at Baskin-Robbins I heard it’s really intense",
+   "skip": false
+  },
+  {
+   "i": 15,
+   "s": "00:02:43,163",
+   "e": "00:02:51,797",
+   "t": "",
+   "x": "(Dopamine addict) That’s why I’m looking forward to it You’re actually looking forward to it? From what I’ve heard, the Rainbow Sherbet doesn’t melt that easily Go ahead and try it right now",
+   "skip": false
+  },
+  {
+   "i": 16,
+   "s": "00:02:51,797",
+   "e": "00:03:07,605",
+   "t": "",
+   "x": "Without a demonstration? (Checking it myself, brb) Like a dung beetle rolling a ball? Wait a sec (Flustered) Why isn’t it working? (Totally freaked out) Sunbae, I’m kind of going for a gelato vibe",
+   "skip": false
+  },
+  {
+   "i": 17,
+   "s": "00:03:07,605",
+   "e": "00:03:15,868",
+   "t": "",
+   "x": "No, seriously, it won’t come off! (Shocked) Look at this (Trying to cover it) It's art (Separating it) (Getting weirder and weirder) No, seriously, it won’t come off",
+   "skip": false
+  },
+  {
+   "i": 18,
+   "s": "00:03:15,868",
+   "e": "00:03:23,954",
+   "t": "",
+   "x": "If we just leave it sitting there like this, people will come by and take pictures This is kind of art (The reality of modern art) Modern art",
+   "skip": false
+  },
+  {
+   "i": 19,
+   "s": "00:03:23,954",
+   "e": "00:03:30,124",
+   "t": "",
+   "x": "(Demonstration) First, you have to shake the water off the scoop (Single Scoop) Shake off the excess water (2. Shape it) After shaking off the excess water, roll it into a half-moon shape",
+   "skip": false
+  },
+  {
+   "i": 20,
+   "s": "00:03:30,124",
+   "e": "00:03:44,308",
+   "t": "",
+   "x": "Roll it into a half-moon (3. Place it in the cup) (Challenge) You have to hold it like this Who are you talking to? Uh, it’s way too stiff (Endless practice begins) You got a feel to it You can do it",
+   "skip": false
+  },
+  {
+   "i": 21,
+   "s": "00:03:44,308",
+   "e": "00:03:59,531",
+   "t": "",
+   "x": "This is just the beginning (Perfect) My first Baskin-Robbins ice cream (Huh?) Perfect (No fake memories, please) Finally, finally (Next: pint practice) With a pint, you get three flavors",
+   "skip": false
+  },
+  {
+   "i": 22,
+   "s": "00:03:59,531",
+   "e": "00:04:12,879",
+   "t": "",
+   "x": "You scoop it in so the customer can see all three Oh, you know how you kind of roll it into a little ball like this? No (Firm) Please focus (Focus) Scrape along the wall This is hard to line up",
+   "skip": false
+  },
+  {
+   "i": 23,
+   "s": "00:04:12,879",
+   "e": "00:04:24,431",
+   "t": "",
+   "x": "(Shaking) Whoa, this is the one It's so stiff Yeah, this one’s stiff Guess this one isn’t popular The unpopular ones are hard to scoop, right? (Cold) No (So cold) No sympathy at all",
+   "skip": false
+  },
+  {
+   "i": 24,
+   "s": "00:04:24,431",
+   "e": "00:04:37,319",
+   "t": "",
+   "x": "(Exhausted) Ugh, it’s hot But with this, if you’re pretty short, it might be tough Are Jiwon's feet floating again? (Checks right away) (On tiptoes, stepping down) Your timing is so...",
+   "skip": false
+  },
+  {
+   "i": 25,
+   "s": "00:04:37,319",
+   "e": "00:04:49,289",
+   "t": "",
+   "x": "(Didn’t get caught) The timing is insane, right? (Missed the moment) I’ll give it a try (All swagger) She's walking like a gangster (Kind of intimidating) This is seriously hilarious",
+   "skip": false
+  },
+  {
+   "i": 26,
+   "s": "00:04:49,289",
+   "e": "00:05:01,218",
+   "t": "",
+   "x": "She's the Scoop serial killer (Looks like she’s about to scoop away everything) Like this (Sunbae) You’re in a girl group (Glances over) (Getting dirty...?) Trying to look like you worked hard?",
+   "skip": false
+  },
+  {
+   "i": 27,
+   "s": "00:05:01,218",
+   "e": "00:05:13,522",
+   "t": "",
+   "x": "How did you know? (You’re in a girl group too!) How did you know? (12:00 PM Open for business) Thank you. Enjoy your meal Jiwon and Rora will handle the scoops Chiquita and I will go run the counter",
+   "skip": false
+  },
+  {
+   "i": 28,
+   "s": "00:05:13,522",
+   "e": "00:05:26,577",
+   "t": "",
+   "x": "(So sweet) (Bye) Uh, go on Chiquita, you got this! She finally left (Finally, some peace and quiet) She said she finally left (Practicing greetings) Welcome, this is Baskin Robbins May I help",
+   "skip": false
+  },
+  {
+   "i": 29,
+   "s": "00:05:26,577",
+   "e": "00:05:41,674",
+   "t": "",
+   "x": "with your order? Yes I’m so nervous I can’t get the words out (Customer walks in) Welcome to Baskin-Robbins What size can I get you? Two Single Regulars, please",
+   "skip": false
+  },
+  {
+   "i": 30,
+   "s": "00:05:41,674",
+   "e": "00:05:49,015",
+   "t": "",
+   "x": "(Nervous, but doing her job) - Would you like it in a cup? - In a cone, please I came in because I got so mad my blood sugar dipped a bit Oh",
+   "skip": false
+  },
+  {
+   "i": 31,
+   "s": "00:05:49,015",
+   "e": "00:05:59,651",
+   "t": "",
+   "x": "(Have some and calm down...) Please choose. We’ve got lots of flavors (Nice to meet you) Oh, hello! Welcome Hello there (First, an enthusiastic welcome) This is Baskin-Robbins (Energy up) Hello Hello",
+   "skip": false
+  },
+  {
+   "i": 32,
+   "s": "00:05:59,651",
+   "e": "00:06:09,369",
+   "t": "",
+   "x": "She said she came because her blood sugar dropped Oh, your blood sugar dropped (Dispensing sugar immediately) Just a moment, please - Here you go. Enjoy - Thank you I scooped that so well",
+   "skip": false
+  },
+  {
+   "i": 33,
+   "s": "00:06:09,369",
+   "e": "00:06:17,335",
+   "t": "",
+   "x": "Are you two friends? No, she's my superior, and I’m below her (Staff/ Manager) Oh, really? What’s the vibe like? The company culture?",
+   "skip": false
+  },
+  {
+   "i": 34,
+   "s": "00:06:17,335",
+   "e": "00:06:25,718",
+   "t": "",
+   "x": "Maybe because it’s a foreign-owned company, things feel a bit more relaxed at work (Fantasy) But if it’s a foreign company, it’s usually pretty laid-back, right? Do you speak casually?",
+   "skip": false
+  },
+  {
+   "i": 35,
+   "s": "00:06:25,718",
+   "e": "00:06:34,936",
+   "t": "",
+   "x": "(So proper) No casual speech Wow, you’re really drawing a clear line Yep, this is definitely Korea (Blunt) Casual-speech time starts now (All of a sudden...?) Casual-speech time starts now",
+   "skip": false
+  },
+  {
+   "i": 36,
+   "s": "00:06:34,936",
+   "e": "00:06:47,699",
+   "t": "",
+   "x": "Do you want a bite? (You wanna die?) She seriously hates it (Startled) Ah! (Second office-worker customer) Welcome, this is Baskin-Robbins (Shy) Please tell me what you need Whatever’s popular",
+   "skip": false
+  },
+  {
+   "i": 37,
+   "s": "00:06:47,699",
+   "e": "00:06:56,667",
+   "t": "",
+   "x": "Whatever's popular? How are you feeling right now? (I’ll recommend something to match) How are you feeling? These days, the world’s been rough, so I think we’re feeling it too",
+   "skip": false
+  },
+  {
+   "i": 38,
+   "s": "00:06:56,667",
+   "e": "00:07:04,173",
+   "t": "",
+   "x": "If you have some ice cream, you’ll feel so much better (No recommendation received) Which flavor would you like? (Need sugar) Just give me something sweet please",
+   "skip": false
+  },
+  {
+   "i": 39,
+   "s": "00:07:04,173",
+   "e": "00:07:11,264",
+   "t": "",
+   "x": "(The reality for Korean office workers) Office workers really do go for sweet stuff a lot What do you do? I work at an insurance company Oh, insurance",
+   "skip": false
+  },
+  {
+   "i": 40,
+   "s": "00:07:11,264",
+   "e": "00:07:23,110",
+   "t": "",
+   "x": "(One person looking especially exhausted...) Insurance? (Worried) Is your blood sugar really low? Yes Why is it low? What was so hard? A client asked me to throw away",
+   "skip": false
+  },
+  {
+   "i": 41,
+   "s": "00:07:23,110",
+   "e": "00:07:33,055",
+   "t": "",
+   "x": "the trash they were holding when they left Oh my god They put their trash in my hand and then wiped their hand on mine once more (Met a trash of a client)",
+   "skip": false
+  },
+  {
+   "i": 42,
+   "s": "00:07:33,055",
+   "e": "00:07:40,752",
+   "t": "",
+   "x": "- That’s a bit... - That one’s a total nightmare customer No, seriously, that’s not okay (Public shaming, let’s go) A word for that nightmare client (PTSD) I’m sweating like crazy",
+   "skip": false
+  },
+  {
+   "i": 43,
+   "s": "00:07:40,752",
+   "e": "00:07:49,719",
+   "t": "",
+   "x": "Just thinking about it makes me break out in a sweat Please don’t harass us (Refreshing) Please. Thank you (Are you watching, you pain in the ass?) - Don’t bully them, you jerks - This is brutal",
+   "skip": false
+  },
+  {
+   "i": 44,
+   "s": "00:07:49,719",
+   "e": "00:07:58,353",
+   "t": "",
+   "x": "(New order) They want it packed in a quart size A quart-size cup Ugh (Hard) Some of this stuff just won’t get scooped, you know (Pressing with all her might) And",
+   "skip": false
+  },
+  {
+   "i": 45,
+   "s": "00:07:58,353",
+   "e": "00:08:11,241",
+   "t": "",
+   "x": "- The New York cheesecake is good too - New York style Enjoy your meal Enjoy Goodbye Here you go (Customers kept pouring in...) Enjoy your meal I’ll start with “Mom Is an Alien” first",
+   "skip": false
+  },
+  {
+   "i": 46,
+   "s": "00:08:11,241",
+   "e": "00:08:27,632",
+   "t": "",
+   "x": "You’re the lucky winner, ma'am (Bulking up her forearms) (Zoned out) Wait, what is this? Looks like a big group just came in (Tired) (Next customer, no time to breathe) It’s Baskin-Robbins",
+   "skip": false
+  },
+  {
+   "i": 47,
+   "s": "00:08:27,632",
+   "e": "00:08:37,517",
+   "t": "",
+   "x": "(Why is everyone so tall...) - Hello - Hello, this is Baskin-Robbins What do you all do? We work as models Knew it (Made on the spot) Oh, don’t you think I’m pretty good at this?",
+   "skip": false
+  },
+  {
+   "i": 48,
+   "s": "00:08:37,517",
+   "e": "00:08:52,532",
+   "t": "",
+   "x": "(Quick sugar boost) What else would you like to eat? I've never seen a celebrity before Me neither (Celebrity) So, what do you think? Who do you like better? - Today’s not going to be easy - Thank you",
+   "skip": false
+  },
+  {
+   "i": 49,
+   "s": "00:08:52,532",
+   "e": "00:09:07,756",
+   "t": "",
+   "x": "What are you doing? Aren’t you working? There’s no work Then sing me a song, quick (Shows off their talent out of nowhere) - Scream, scream - Ugh, this is exhausting Oooohhhhh",
+   "skip": false
+  },
+  {
+   "i": 50,
+   "s": "00:09:07,756",
+   "e": "00:09:19,517",
+   "t": "",
+   "x": "(All done with the group order) - Enjoy your meal - Thank you (Shorty) Wow, those people are seriously So tall I looked up at them like this Ugh, my back hurts (Hurting from all the looking up)",
+   "skip": false
+  },
+  {
+   "i": 51,
+   "s": "00:09:19,517",
+   "e": "00:09:32,322",
+   "t": "",
+   "x": "(After lunch, the store quiets down) - Let’s take a quick break - Sure (Bored) Shouldn’t we be out there drumming up some business? We’ve got way too few customers. It’s a ghost town",
+   "skip": false
+  },
+  {
+   "i": 52,
+   "s": "00:09:32,322",
+   "e": "00:09:45,878",
+   "t": "",
+   "x": "(Soliciting at the window) Come on in! (Spots someone) Uh, excuse me, sir! (Where's she going again...?) Wow, wow, wow! Seriously, respect Now that’s how you do it as a Workdol MC",
+   "skip": false
+  },
+  {
+   "i": 53,
+   "s": "00:09:45,878",
+   "e": "00:10:03,853",
+   "t": "",
+   "x": "(Soliciting in full force) (Ignoring her) COME, COME Nobody's coming Totally ignored (Thud) Oh man Oh man, oh man Spring fever's hitting me (Why are you suddenly getting spring fever...?)",
+   "skip": false
+  },
+  {
+   "i": 54,
+   "s": "00:10:03,853",
+   "e": "00:10:14,781",
+   "t": "",
+   "x": "We’ve got an order coming in Oh, it’s in Sunbae, time to get to work Wait, what? An order just came in? (A customer comes in too) Welcome to Baskin-Robbins Hi, I’ll help you with your order here",
+   "skip": false
+  },
+  {
+   "i": 55,
+   "s": "00:10:14,781",
+   "e": "00:10:28,294",
+   "t": "",
+   "x": "Personally, I like \"Mom Is an Alien\" Just one of those, please Okay, got it What do you do for work? I’m working part-time at the Chinese restaurant next door How is it. Hard? Yeah, the trash comes in",
+   "skip": false
+  },
+  {
+   "i": 56,
+   "s": "00:10:28,294",
+   "e": "00:10:38,971",
+   "t": "",
+   "x": "really heavy for us Hey, hey, hey! That difficult customer is about to leave A difficult customer? Could it be some entitled customer? No, just someone whose blood sugar’s low Ohhh",
+   "skip": false
+  },
+  {
+   "i": 57,
+   "s": "00:10:38,971",
+   "e": "00:10:44,435",
+   "t": "",
+   "x": "(Pumps the energy back up) Hello, welcome to Baskin-Robbins (Wearing Chinese-restaurant attire) Do you work at a Chinese restaurant? Yes, that’s right",
+   "skip": false
+  },
+  {
+   "i": 58,
+   "s": "00:10:44,435",
+   "e": "00:10:53,069",
+   "t": "",
+   "x": "I’ve actually done part-time work at a Chinese restaurant too I watched it You got so many mean comments Ahem (Caught off guard) I did get some flak for being bad at my job",
+   "skip": false
+  },
+  {
+   "i": 59,
+   "s": "00:10:53,069",
+   "e": "00:11:01,786",
+   "t": "",
+   "x": "If you’d gone out on your own, I bet you would’ve done really well (Fair) Yes I’m front-of-house material (Born for the service industry) (Cheongdam Street) And isn’t that place luxurious, too?",
+   "skip": false
+  },
+  {
+   "i": 60,
+   "s": "00:11:01,786",
+   "e": "00:11:09,961",
+   "t": "",
+   "x": "If it’s expensive, you’ve got to treat them really well, right? (Order’s up) What kind of clientele do you usually get? Usually it’s some chairman type",
+   "skip": false
+  },
+  {
+   "i": 61,
+   "s": "00:11:09,961",
+   "e": "00:11:19,930",
+   "t": "",
+   "x": "(Chairman stereotype) And sometimes, when they’re drunk, they’ll leave a 50,000-won tip (A 50,000-won tip...?) Here, take this for the cab fare Oh my One more? (Yeah) Yellow, yellow one?",
+   "skip": false
+  },
+  {
+   "i": 62,
+   "s": "00:11:19,930",
+   "e": "00:11:28,062",
+   "t": "",
+   "x": "(Adding another tip...) And then they'd give me more, thinking they didn't give me one (This is getting interesting) - Then, then. Wait a second - \"I didn't take it!\" Wait, then you can wear glasses,",
+   "skip": false
+  },
+  {
+   "i": 63,
+   "s": "00:11:28,062",
+   "e": "00:11:38,156",
+   "t": "",
+   "x": "take it off, and then tie your hair Hello (Endless tip refills) Hair tied up like this. Hello! (Still greeting customers...) Welcome in! Welcome to Baskin-Robbins!",
+   "skip": false
+  },
+  {
+   "i": 64,
+   "s": "00:11:38,156",
+   "e": "00:11:48,291",
+   "t": "",
+   "x": "(Giving it my all at customer service) Hello! This customer’s here for a sugar fix! (Sugar replenished, done) Enjoy your treat, enjoy your treat!",
+   "skip": false
+  },
+  {
+   "i": 65,
+   "s": "00:11:48,291",
+   "e": "00:12:03,765",
+   "t": "",
+   "x": "(Another customer) I’m going to hand off the customer who’s been slacking (Exhausted) This is rough (Trying hard) Rora, you look totally worn out Rora, are you okay?",
+   "skip": false
+  },
+  {
+   "i": 66,
+   "s": "00:12:03,765",
+   "e": "00:12:08,729",
+   "t": "",
+   "x": "(That forced energy is obvious...) What are you talking about? (Taking a break) Looks like working the counter really wiped you out",
+   "skip": false
+  },
+  {
+   "i": 67,
+   "s": "00:12:08,729",
+   "e": "00:12:22,116",
+   "t": "",
+   "x": "(Exhausted...) That’s the eyebrow you make when things are really tough (Quick check) Hang on, how long are we working today? We’ve got 25 minutes left until clock-out Yes! No, you really spilled it",
+   "skip": false
+  },
+  {
+   "i": 68,
+   "s": "00:12:22,116",
+   "e": "00:12:41,803",
+   "t": "",
+   "x": "(Everyone hustles...) How was it? Your ice cream shop shift today? It was rough Totally brutal Ugh, I'm wiped (Peek) How long until we get off work? About five minutes left",
+   "skip": false
+  },
+  {
+   "i": 69,
+   "s": "00:12:41,803",
+   "e": "00:12:51,646",
+   "t": "",
+   "x": "(Excited) Oh yeah, oh yeeeaaah! (Happy) (Back to work) I'll make you a theme song with Chiquita (Cheerful because it’s almost time to clock out) Spin guitar to the Chiquita rhythm",
+   "skip": false
+  },
+  {
+   "i": 70,
+   "s": "00:12:51,646",
+   "e": "00:13:07,286",
+   "t": "",
+   "x": "Spin guitar to the Chiquita rhythm (No HP) (A customer comes in) Customer! Oh, the counter Hello Fifty single cups, please Fifty single cups? Fifty cups? Hold on, the last customer is way too intense",
+   "skip": false
+  },
+  {
+   "i": 71,
+   "s": "00:13:07,286",
+   "e": "00:13:21,134",
+   "t": "",
+   "x": "Fifty? (Death glare) Sunbaes, we’ve got a group order, 50 single cups (Zen mode) I’ll scoop it out with all the love I’ve got How about a Shooting Star? Oh, Shooting Star. Nice Wait, what?",
+   "skip": false
+  },
+  {
+   "i": 72,
+   "s": "00:13:21,134",
+   "e": "00:13:30,477",
+   "t": "",
+   "x": "I think I’ve genuinely gotten better (Perfect form) I think I nailed that one the most perfectly (Can’t lose) Don’t you think I’m actually pretty good? (Might as well get hired) This shape is insane",
+   "skip": false
+  },
+  {
+   "i": 73,
+   "s": "00:13:30,477",
+   "e": "00:13:43,740",
+   "t": "",
+   "x": "Who is it for? We're going to meet club friends Are you two a couple, by any chance? Yeah (Seriously...) (Let’s just focus on work...) Apple Mint This one takes a bit more effort",
+   "skip": false
+  },
+  {
+   "i": 74,
+   "s": "00:13:43,740",
+   "e": "00:13:55,335",
+   "t": "",
+   "x": "(The end) Ahh, I’m finally done Oooooooooh! Who was the one to confess first? (I went first) I was the one who confessed Woooow! You worked up the nerve How did you do it?",
+   "skip": false
+  },
+  {
+   "i": 75,
+   "s": "00:13:55,335",
+   "e": "00:14:04,927",
+   "t": "",
+   "x": "My girlfriend was meeting a friend, so I went to pick her up and confessed in front of her place at night So you basically told her to get in the car Oh, right I did that in Gangnam",
+   "skip": false
+  },
+  {
+   "i": 76,
+   "s": "00:14:04,927",
+   "e": "00:14:22,945",
+   "t": "",
+   "x": "“Oppa got a new car” (Oppa is really drunk...) “Oppa got a new car. I'm coming to pick you up” (4:00 PM Getting off work) We're done We're heading home now Let me off (Paycheck from the part-time job)",
+   "skip": false
+  },
+  {
+   "i": 77,
+   "s": "00:14:22,945",
+   "e": "00:14:30,828",
+   "t": "",
+   "x": "You all did great. Seriously, everyone worked so hard Whoa, how much is it? 300 won? 41,300 won? (Baskin-Robbins payout = Total 41,300 won) How many hours did we work today?",
+   "skip": false
+  },
+  {
+   "i": 78,
+   "s": "00:14:30,828",
+   "e": "00:14:43,591",
+   "t": "",
+   "x": "4 hours. Hourly pay is 10,320 won (Dead-eyed) That’s not too much That’s reasonable (So reasonable...) (Q. What was the toughest part?) What was the hardest thing for you?",
+   "skip": false
+  },
+  {
+   "i": 79,
+   "s": "00:14:43,591",
+   "e": "00:14:53,226",
+   "t": "",
+   "x": "At the counter, constantly going, “Welcome!” and keeping that kind of energy up Oh, like being bright and cheerful Cheerful (My face almost cramped up) I smiled so much For me, the hardest part was",
+   "skip": false
+  },
+  {
+   "i": 80,
+   "s": "00:14:53,226",
+   "e": "00:15:02,860",
+   "t": "",
+   "x": "scooping mint chocolate chip It just wouldn’t budge - It sticks to the scoop and won’t come off - Apparently that’s a thing That one was the hardest (Heartbroken) Don’t eat",
+   "skip": false
+  },
+  {
+   "i": 81,
+   "s": "00:15:02,860",
+   "e": "00:15:14,210",
+   "t": "",
+   "x": "(Just get chocolate) Don’t order mint chocolate I had no idea it was this hard I totally respect you guys (Shout-out to part-timers) - Much respect - Seriously, mad respect Working together today",
+   "skip": false
+  },
+  {
+   "i": 82,
+   "s": "00:15:14,210",
+   "e": "00:15:25,174",
+   "t": "",
+   "x": "was fun, but (Hurting for the working man) listening to his story was so sad They work so hard, and those rude customers, seriously... That's no good Rude customers need to reflect on themselves",
+   "skip": false
+  },
+  {
+   "i": 83,
+   "s": "00:15:25,174",
+   "e": "00:15:29,803",
+   "t": "",
+   "x": "(They’re all someone’s precious children...) Please treat them kindly (BABYMONSTER’s surprise confession)",
+   "skip": false
+  },
+  {
+   "i": 84,
+   "s": "00:15:29,803",
+   "e": "00:15:38,938",
+   "t": "",
+   "x": "(6 PM, May 4 - Baemon \"CHOOM” comeback) We’re making our comeback in May with the title track \"CHOOM” “CHOOM?” We’ve got a world tour in June It’s our second world tour",
+   "skip": false
+  },
+  {
+   "i": 85,
+   "s": "00:15:38,938",
+   "e": "00:15:52,619",
+   "t": "",
+   "x": "(Promo over) Let’s head out like this, guys (Let me off work) (A sunbae’s real-world advice) Is there anyone in BABYMONSTER who seems like they’d be good at a part-time job?",
+   "skip": false
+  },
+  {
+   "i": 86,
+   "s": "00:15:52,619",
+   "e": "00:16:04,089",
+   "t": "",
+   "x": "- First off, there’s a friend named Rora - Really? She’s seriously sharp and capable But among the youngest ones, there’s a girl named Chiquita She doesn't really understand hierarchy,",
+   "skip": false
+  },
+  {
+   "i": 87,
+   "s": "00:16:04,089",
+   "e": "00:16:11,763",
+   "t": "",
+   "x": "so even though I’m older, (Hierarchy in shambles) she says we’re the same age just because it’s only a six-month difference You can tell at a glance I’m the older one",
+   "skip": false
+  },
+  {
+   "i": 88,
+   "s": "00:16:11,763",
+   "e": "00:16:24,859",
+   "t": "",
+   "x": "(Cut this) I mean, it’s not even a full year Just six months, you know? Then, aren't we the same age? Ooooh Hey, how many years were you a trainee? (How should I know?) I don't know",
+   "skip": false
+  },
+  {
+   "i": 89,
+   "s": "00:16:24,859",
+   "e": "00:16:34,369",
+   "t": "",
+   "x": "How many years was it for me? You? There's a six year difference Did I do one year? None of it mattered If you just get out there, work hard, and do well,",
+   "skip": false
+  },
+  {
+   "i": 90,
+   "s": "00:16:34,369",
+   "e": "00:16:46,339",
+   "t": "",
+   "x": "it doesn’t matter whether you were a trainee for a year, a few months, eight years, or six years (Reached nirvana) It all ends up not mattering (Next week) Let’s go check it out Catch me. PICK ME",
+   "skip": false
+  },
+  {
+   "i": 91,
+   "s": "00:16:46,339",
+   "e": "00:16:48,925",
+   "t": "",
+   "x": "(On-foot debut coming soon)",
+   "skip": false
+  }
+ ]
+}
